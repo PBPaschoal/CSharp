@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "URIJudge1071/1.0.0": {
+        "runtime": {
+          "URIJudge1071.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "URIJudge1071/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

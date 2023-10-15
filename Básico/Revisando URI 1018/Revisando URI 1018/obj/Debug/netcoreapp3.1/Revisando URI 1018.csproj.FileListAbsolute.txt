@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\bin\Debug\netcoreapp3.1\Revisando URI 1018.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\bin\Debug\netcoreapp3.1\Revisando URI 1018.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\bin\Debug\netcoreapp3.1\Revisando URI 1018.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\bin\Debug\netcoreapp3.1\Revisando URI 1018.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\bin\Debug\netcoreapp3.1\Revisando URI 1018.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\bin\Debug\netcoreapp3.1\Revisando URI 1018.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\obj\Debug\netcoreapp3.1\Revisando URI 1018.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\obj\Debug\netcoreapp3.1\Revisando URI 1018.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\obj\Debug\netcoreapp3.1\Revisando URI 1018.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\obj\Debug\netcoreapp3.1\Revisando URI 1018.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\obj\Debug\netcoreapp3.1\Revisando URI 1018.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\obj\Debug\netcoreapp3.1\Revisando URI 1018.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1018\Revisando URI 1018\obj\Debug\netcoreapp3.1\Revisando URI 1018.genruntimeconfig.cache

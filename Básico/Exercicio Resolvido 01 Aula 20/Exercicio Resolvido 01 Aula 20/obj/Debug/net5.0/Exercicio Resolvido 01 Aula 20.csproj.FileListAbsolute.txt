@@ -1,0 +1,15 @@
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\bin\Debug\net5.0\Exercicio Resolvido 01 Aula 20.exe
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\bin\Debug\net5.0\Exercicio Resolvido 01 Aula 20.deps.json
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\bin\Debug\net5.0\Exercicio Resolvido 01 Aula 20.runtimeconfig.json
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\bin\Debug\net5.0\Exercicio Resolvido 01 Aula 20.runtimeconfig.dev.json
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\bin\Debug\net5.0\Exercicio Resolvido 01 Aula 20.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\bin\Debug\net5.0\ref\Exercicio Resolvido 01 Aula 20.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\bin\Debug\net5.0\Exercicio Resolvido 01 Aula 20.pdb
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\Exercicio Resolvido 01 Aula 20.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\Exercicio Resolvido 01 Aula 20.AssemblyInfoInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\Exercicio Resolvido 01 Aula 20.AssemblyInfo.cs
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\Exercicio Resolvido 01 Aula 20.csproj.CoreCompileInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\Exercicio Resolvido 01 Aula 20.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\ref\Exercicio Resolvido 01 Aula 20.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\Exercicio Resolvido 01 Aula 20.pdb
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 01 Aula 20\Exercicio Resolvido 01 Aula 20\obj\Debug\net5.0\Exercicio Resolvido 01 Aula 20.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1038.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1038.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1038.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1038.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1038.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1038.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1038.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1038.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1038.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1038.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1038.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1038.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1038\Revisando Exercício URI 1038\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1038.genruntimeconfig.cache

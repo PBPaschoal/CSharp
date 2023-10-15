@@ -1,0 +1,12 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\bin\Debug\netcoreapp3.1\Revisando URI1013.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\bin\Debug\netcoreapp3.1\Revisando URI1013.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\bin\Debug\netcoreapp3.1\Revisando URI1013.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\bin\Debug\netcoreapp3.1\Revisando URI1013.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\bin\Debug\netcoreapp3.1\Revisando URI1013.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\bin\Debug\netcoreapp3.1\Revisando URI1013.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\obj\Debug\netcoreapp3.1\Revisando URI1013.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\obj\Debug\netcoreapp3.1\Revisando URI1013.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\obj\Debug\netcoreapp3.1\Revisando URI1013.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\obj\Debug\netcoreapp3.1\Revisando URI1013.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\obj\Debug\netcoreapp3.1\Revisando URI1013.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI1013\Revisando URI1013\obj\Debug\netcoreapp3.1\Revisando URI1013.genruntimeconfig.cache

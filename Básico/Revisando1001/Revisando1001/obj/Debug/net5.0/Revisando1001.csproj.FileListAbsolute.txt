@@ -1,0 +1,16 @@
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\bin\Debug\net5.0\Revisando1001.exe
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\bin\Debug\net5.0\Revisando1001.deps.json
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\bin\Debug\net5.0\Revisando1001.runtimeconfig.json
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\bin\Debug\net5.0\Revisando1001.runtimeconfig.dev.json
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\bin\Debug\net5.0\Revisando1001.dll
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\bin\Debug\net5.0\ref\Revisando1001.dll
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\bin\Debug\net5.0\Revisando1001.pdb
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.csproj.AssemblyReference.cache
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.AssemblyInfoInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.AssemblyInfo.cs
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.csproj.CoreCompileInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.dll
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\ref\Revisando1001.dll
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.pdb
+D:\PBPaschoal HD\Estudos\CSharp\Revisando1001\Revisando1001\obj\Debug\net5.0\Revisando1001.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\bin\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\bin\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\bin\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\bin\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\bin\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\bin\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\obj\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\obj\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\obj\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\obj\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\obj\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\obj\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 37 Estrutura switch-case\Aula 37 Estrutura switch-case\obj\Debug\netcoreapp3.1\Aula 37 Estrutura switch-case.genruntimeconfig.cache

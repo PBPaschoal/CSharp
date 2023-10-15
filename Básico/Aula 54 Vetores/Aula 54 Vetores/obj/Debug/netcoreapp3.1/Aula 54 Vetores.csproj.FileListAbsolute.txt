@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\bin\Debug\netcoreapp3.1\Aula 54 Vetores.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\bin\Debug\netcoreapp3.1\Aula 54 Vetores.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\bin\Debug\netcoreapp3.1\Aula 54 Vetores.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\bin\Debug\netcoreapp3.1\Aula 54 Vetores.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\bin\Debug\netcoreapp3.1\Aula 54 Vetores.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\bin\Debug\netcoreapp3.1\Aula 54 Vetores.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\obj\Debug\netcoreapp3.1\Aula 54 Vetores.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\obj\Debug\netcoreapp3.1\Aula 54 Vetores.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\obj\Debug\netcoreapp3.1\Aula 54 Vetores.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\obj\Debug\netcoreapp3.1\Aula 54 Vetores.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\obj\Debug\netcoreapp3.1\Aula 54 Vetores.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\obj\Debug\netcoreapp3.1\Aula 54 Vetores.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 54 Vetores\Aula 54 Vetores\obj\Debug\netcoreapp3.1\Aula 54 Vetores.genruntimeconfig.cache

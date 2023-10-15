@@ -1,0 +1,12 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\bin\Debug\netcoreapp3.1\Aula 35 Exercício.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\bin\Debug\netcoreapp3.1\Aula 35 Exercício.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\bin\Debug\netcoreapp3.1\Aula 35 Exercício.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\bin\Debug\netcoreapp3.1\Aula 35 Exercício.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\bin\Debug\netcoreapp3.1\Aula 35 Exercício.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\bin\Debug\netcoreapp3.1\Aula 35 Exercício.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\obj\Debug\netcoreapp3.1\Aula 35 Exercício.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\obj\Debug\netcoreapp3.1\Aula 35 Exercício.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\obj\Debug\netcoreapp3.1\Aula 35 Exercício.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\obj\Debug\netcoreapp3.1\Aula 35 Exercício.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\obj\Debug\netcoreapp3.1\Aula 35 Exercício.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Aula 35 Exercício\Aula 35 Exercício\obj\Debug\netcoreapp3.1\Aula 35 Exercício.genruntimeconfig.cache

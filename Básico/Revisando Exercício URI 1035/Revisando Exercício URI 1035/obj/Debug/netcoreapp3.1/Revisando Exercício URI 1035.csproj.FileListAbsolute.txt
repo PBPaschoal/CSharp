@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1035.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1035.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1035.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1035.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1035.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\bin\Debug\netcoreapp3.1\Revisando Exercício URI 1035.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1035.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1035.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1035.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1035.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1035.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1035.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Exercício URI 1035\Revisando Exercício URI 1035\obj\Debug\netcoreapp3.1\Revisando Exercício URI 1035.genruntimeconfig.cache

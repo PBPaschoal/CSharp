@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\bin\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\bin\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\bin\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\bin\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\bin\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\bin\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\obj\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\obj\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\obj\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\obj\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\obj\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\obj\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 66 Exercicio 01 Matriz\Aula 66 Exercicio 01 Matriz\obj\Debug\netcoreapp3.1\Aula 66 Exercicio 01 Matriz.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\bin\Debug\netcoreapp3.1\ProgramaTeste01.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\bin\Debug\netcoreapp3.1\ProgramaTeste01.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\bin\Debug\netcoreapp3.1\ProgramaTeste01.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\bin\Debug\netcoreapp3.1\ProgramaTeste01.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\bin\Debug\netcoreapp3.1\ProgramaTeste01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\bin\Debug\netcoreapp3.1\ProgramaTeste01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\obj\Debug\netcoreapp3.1\ProgramaTeste01.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\obj\Debug\netcoreapp3.1\ProgramaTeste01.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\obj\Debug\netcoreapp3.1\ProgramaTeste01.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\obj\Debug\netcoreapp3.1\ProgramaTeste01.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\obj\Debug\netcoreapp3.1\ProgramaTeste01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\obj\Debug\netcoreapp3.1\ProgramaTeste01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ProgramaTeste01\ProgramaTeste01\obj\Debug\netcoreapp3.1\ProgramaTeste01.genruntimeconfig.cache

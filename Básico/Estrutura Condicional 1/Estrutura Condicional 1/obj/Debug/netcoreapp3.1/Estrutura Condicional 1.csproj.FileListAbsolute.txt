@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\bin\Debug\netcoreapp3.1\Estrutura Condicional 1.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\bin\Debug\netcoreapp3.1\Estrutura Condicional 1.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\bin\Debug\netcoreapp3.1\Estrutura Condicional 1.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\bin\Debug\netcoreapp3.1\Estrutura Condicional 1.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\bin\Debug\netcoreapp3.1\Estrutura Condicional 1.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\bin\Debug\netcoreapp3.1\Estrutura Condicional 1.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\obj\Debug\netcoreapp3.1\Estrutura Condicional 1.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\obj\Debug\netcoreapp3.1\Estrutura Condicional 1.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\obj\Debug\netcoreapp3.1\Estrutura Condicional 1.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\obj\Debug\netcoreapp3.1\Estrutura Condicional 1.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\obj\Debug\netcoreapp3.1\Estrutura Condicional 1.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\obj\Debug\netcoreapp3.1\Estrutura Condicional 1.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Estrutura Condicional 1\Estrutura Condicional 1\obj\Debug\netcoreapp3.1\Estrutura Condicional 1.genruntimeconfig.cache

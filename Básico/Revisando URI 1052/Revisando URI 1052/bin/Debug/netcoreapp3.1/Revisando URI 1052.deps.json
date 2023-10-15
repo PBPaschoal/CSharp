@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Revisando URI 1052/1.0.0": {
+        "runtime": {
+          "Revisando URI 1052.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisando URI 1052/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\bin\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\bin\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\bin\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\bin\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\bin\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\bin\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\obj\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\obj\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\obj\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\obj\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\obj\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\obj\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando Aula 33 Exercicio\Revisando Aula 33 Exercicio\obj\Debug\netcoreapp3.1\Revisando Aula 33 Exercicio.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\bin\Debug\netcoreapp3.1\URIJugde1113.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\bin\Debug\netcoreapp3.1\URIJugde1113.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\bin\Debug\netcoreapp3.1\URIJugde1113.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\bin\Debug\netcoreapp3.1\URIJugde1113.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\bin\Debug\netcoreapp3.1\URIJugde1113.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\bin\Debug\netcoreapp3.1\URIJugde1113.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\obj\Debug\netcoreapp3.1\URIJugde1113.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\obj\Debug\netcoreapp3.1\URIJugde1113.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\obj\Debug\netcoreapp3.1\URIJugde1113.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\obj\Debug\netcoreapp3.1\URIJugde1113.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\obj\Debug\netcoreapp3.1\URIJugde1113.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\obj\Debug\netcoreapp3.1\URIJugde1113.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1113\URIJugde1113\obj\Debug\netcoreapp3.1\URIJugde1113.genruntimeconfig.cache

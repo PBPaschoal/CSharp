@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\bin\Debug\netcoreapp3.1\Exercicio 4 letra o.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\bin\Debug\netcoreapp3.1\Exercicio 4 letra o.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\bin\Debug\netcoreapp3.1\Exercicio 4 letra o.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\bin\Debug\netcoreapp3.1\Exercicio 4 letra o.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\bin\Debug\netcoreapp3.1\Exercicio 4 letra o.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\bin\Debug\netcoreapp3.1\Exercicio 4 letra o.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\obj\Debug\netcoreapp3.1\Exercicio 4 letra o.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\obj\Debug\netcoreapp3.1\Exercicio 4 letra o.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\obj\Debug\netcoreapp3.1\Exercicio 4 letra o.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\obj\Debug\netcoreapp3.1\Exercicio 4 letra o.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\obj\Debug\netcoreapp3.1\Exercicio 4 letra o.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\obj\Debug\netcoreapp3.1\Exercicio 4 letra o.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 4 letra o\Exercicio 4 letra o\obj\Debug\netcoreapp3.1\Exercicio 4 letra o.genruntimeconfig.cache

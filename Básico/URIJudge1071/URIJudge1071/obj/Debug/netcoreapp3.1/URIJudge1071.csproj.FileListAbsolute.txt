@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\bin\Debug\netcoreapp3.1\URIJudge1071.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\bin\Debug\netcoreapp3.1\URIJudge1071.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\bin\Debug\netcoreapp3.1\URIJudge1071.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\bin\Debug\netcoreapp3.1\URIJudge1071.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\bin\Debug\netcoreapp3.1\URIJudge1071.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\bin\Debug\netcoreapp3.1\URIJudge1071.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\obj\Debug\netcoreapp3.1\URIJudge1071.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\obj\Debug\netcoreapp3.1\URIJudge1071.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\obj\Debug\netcoreapp3.1\URIJudge1071.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\obj\Debug\netcoreapp3.1\URIJudge1071.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\obj\Debug\netcoreapp3.1\URIJudge1071.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\obj\Debug\netcoreapp3.1\URIJudge1071.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJudge1071\URIJudge1071\obj\Debug\netcoreapp3.1\URIJudge1071.genruntimeconfig.cache

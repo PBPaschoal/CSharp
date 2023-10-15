@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\bin\Debug\netcoreapp3.1\Revisando URI 1052.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\bin\Debug\netcoreapp3.1\Revisando URI 1052.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\bin\Debug\netcoreapp3.1\Revisando URI 1052.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\bin\Debug\netcoreapp3.1\Revisando URI 1052.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\bin\Debug\netcoreapp3.1\Revisando URI 1052.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\bin\Debug\netcoreapp3.1\Revisando URI 1052.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\obj\Debug\netcoreapp3.1\Revisando URI 1052.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\obj\Debug\netcoreapp3.1\Revisando URI 1052.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\obj\Debug\netcoreapp3.1\Revisando URI 1052.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\obj\Debug\netcoreapp3.1\Revisando URI 1052.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\obj\Debug\netcoreapp3.1\Revisando URI 1052.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\obj\Debug\netcoreapp3.1\Revisando URI 1052.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1052\Revisando URI 1052\obj\Debug\netcoreapp3.1\Revisando URI 1052.genruntimeconfig.cache

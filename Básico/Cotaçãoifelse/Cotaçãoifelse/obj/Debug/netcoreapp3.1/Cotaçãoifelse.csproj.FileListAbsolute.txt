@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\bin\Debug\netcoreapp3.1\Cotaçãoifelse.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\bin\Debug\netcoreapp3.1\Cotaçãoifelse.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\bin\Debug\netcoreapp3.1\Cotaçãoifelse.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\bin\Debug\netcoreapp3.1\Cotaçãoifelse.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\bin\Debug\netcoreapp3.1\Cotaçãoifelse.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\bin\Debug\netcoreapp3.1\Cotaçãoifelse.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\obj\Debug\netcoreapp3.1\Cotaçãoifelse.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\obj\Debug\netcoreapp3.1\Cotaçãoifelse.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\obj\Debug\netcoreapp3.1\Cotaçãoifelse.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\obj\Debug\netcoreapp3.1\Cotaçãoifelse.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\obj\Debug\netcoreapp3.1\Cotaçãoifelse.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\obj\Debug\netcoreapp3.1\Cotaçãoifelse.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Cotaçãoifelse\Cotaçãoifelse\obj\Debug\netcoreapp3.1\Cotaçãoifelse.genruntimeconfig.cache

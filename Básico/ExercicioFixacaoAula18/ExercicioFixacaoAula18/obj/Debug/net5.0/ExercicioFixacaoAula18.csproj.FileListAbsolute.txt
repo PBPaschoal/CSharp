@@ -1,0 +1,15 @@
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\bin\Debug\net5.0\ExercicioFixacaoAula18.exe
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\bin\Debug\net5.0\ExercicioFixacaoAula18.deps.json
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\bin\Debug\net5.0\ExercicioFixacaoAula18.runtimeconfig.json
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\bin\Debug\net5.0\ExercicioFixacaoAula18.runtimeconfig.dev.json
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\bin\Debug\net5.0\ExercicioFixacaoAula18.dll
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\bin\Debug\net5.0\ref\ExercicioFixacaoAula18.dll
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\bin\Debug\net5.0\ExercicioFixacaoAula18.pdb
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ExercicioFixacaoAula18.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ExercicioFixacaoAula18.AssemblyInfoInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ExercicioFixacaoAula18.AssemblyInfo.cs
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ExercicioFixacaoAula18.csproj.CoreCompileInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ExercicioFixacaoAula18.dll
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ref\ExercicioFixacaoAula18.dll
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ExercicioFixacaoAula18.pdb
+D:\PBPaschoal HD\Estudos\CSharp\ExercicioFixacaoAula18\ExercicioFixacaoAula18\obj\Debug\net5.0\ExercicioFixacaoAula18.genruntimeconfig.cache

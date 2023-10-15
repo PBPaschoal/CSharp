@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\bin\Debug\netcoreapp3.1\Aula 63 Matrizes.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\bin\Debug\netcoreapp3.1\Aula 63 Matrizes.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\bin\Debug\netcoreapp3.1\Aula 63 Matrizes.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\bin\Debug\netcoreapp3.1\Aula 63 Matrizes.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\bin\Debug\netcoreapp3.1\Aula 63 Matrizes.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\bin\Debug\netcoreapp3.1\Aula 63 Matrizes.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\obj\Debug\netcoreapp3.1\Aula 63 Matrizes.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\obj\Debug\netcoreapp3.1\Aula 63 Matrizes.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\obj\Debug\netcoreapp3.1\Aula 63 Matrizes.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\obj\Debug\netcoreapp3.1\Aula 63 Matrizes.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\obj\Debug\netcoreapp3.1\Aula 63 Matrizes.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\obj\Debug\netcoreapp3.1\Aula 63 Matrizes.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 63 Matrizes\Aula 63 Matrizes\obj\Debug\netcoreapp3.1\Aula 63 Matrizes.genruntimeconfig.cache

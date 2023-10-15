@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Revisando Aula 36 Exercício/1.0.0": {
+        "runtime": {
+          "Revisando Aula 36 Exercício.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisando Aula 36 Exercício/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\bin\Debug\netcoreapp3.1\Aula 36.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\bin\Debug\netcoreapp3.1\Aula 36.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\bin\Debug\netcoreapp3.1\Aula 36.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\bin\Debug\netcoreapp3.1\Aula 36.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\bin\Debug\netcoreapp3.1\Aula 36.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\bin\Debug\netcoreapp3.1\Aula 36.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\obj\Debug\netcoreapp3.1\Aula 36.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\obj\Debug\netcoreapp3.1\Aula 36.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\obj\Debug\netcoreapp3.1\Aula 36.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\obj\Debug\netcoreapp3.1\Aula 36.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\obj\Debug\netcoreapp3.1\Aula 36.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\obj\Debug\netcoreapp3.1\Aula 36.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 36\Aula 36\obj\Debug\netcoreapp3.1\Aula 36.genruntimeconfig.cache
