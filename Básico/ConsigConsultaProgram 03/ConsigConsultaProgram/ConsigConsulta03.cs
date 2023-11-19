@@ -4,6 +4,7 @@
  * Futuramente farei uma nova versão desse programa, mais avançado.
  * Criado por: Paulo Bruno Paschoal
  * Atualizado dia 26-08-2020 às 03:07hrs, Rio de Janeiro. 
+ * SEM POO
  */
 
 using System;
