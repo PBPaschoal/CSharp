@@ -1,0 +1,36 @@
+Para escrever na tela um texto qualquer
+
+Sem quebra de linha ao final:
+
+Console.Write("Olá mundo!");
+
+Com quebra de linha ao final:
+
+Console.WriteLine("Olá mundo!");
+
+
+Para escrever o conteúdo de uma variável com ponto flutuante
+
+Suponha uma variável tipo double declarada e iniciada:
+
+double x = 10.35784;
+
+Console.WriteLine(x);
+
+Console.WriteLine(x.ToString("F2"));
+Console.WriteLine(x.ToString("F4")); //Vai imprimir com virgula ao inves de ponto
+
+Console.WriteLine(x.ToSring("F2", CultureInfo.InvariantCulture)); Obs: using System.Globalization; //Vai imprimir com ponto ao inves de virgula
+
+
+Para concatenar vários elementos em um mesmo comando de escrita
+
+Regra geral:
+
+elemento1 + elemento2 + elemento3 + .... + elementoN
+
+Console.WriteLine("RESULTADO = " + x);
+
+Console.WriteLine("O valor do troco é " + x + " reais");
+
+Console.WriteLine("O valor do troco é " + x.ToSring("F2") + " reais");
