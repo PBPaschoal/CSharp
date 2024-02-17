@@ -1,0 +1,16 @@
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\bin\Debug\net5.0\Aula 25 Exercicio Resolvido 03.exe
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\bin\Debug\net5.0\Aula 25 Exercicio Resolvido 03.deps.json
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\bin\Debug\net5.0\Aula 25 Exercicio Resolvido 03.runtimeconfig.json
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\bin\Debug\net5.0\Aula 25 Exercicio Resolvido 03.runtimeconfig.dev.json
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\bin\Debug\net5.0\Aula 25 Exercicio Resolvido 03.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\bin\Debug\net5.0\ref\Aula 25 Exercicio Resolvido 03.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\bin\Debug\net5.0\Aula 25 Exercicio Resolvido 03.pdb
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.csproj.AssemblyReference.cache
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.AssemblyInfoInputs.cache
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.AssemblyInfo.cs
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.csproj.CoreCompileInputs.cache
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\ref\Aula 25 Exercicio Resolvido 03.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.pdb
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 25 Exercicio Resolvido 03\Aula 25 Exercicio Resolvido 03\obj\Debug\net5.0\Aula 25 Exercicio Resolvido 03.genruntimeconfig.cache

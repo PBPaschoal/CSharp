@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\bin\Debug\netcoreapp3.1\Exercício URI 1051.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\bin\Debug\netcoreapp3.1\Exercício URI 1051.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\bin\Debug\netcoreapp3.1\Exercício URI 1051.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\bin\Debug\netcoreapp3.1\Exercício URI 1051.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\bin\Debug\netcoreapp3.1\Exercício URI 1051.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\bin\Debug\netcoreapp3.1\Exercício URI 1051.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\obj\Debug\netcoreapp3.1\Exercício URI 1051.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\obj\Debug\netcoreapp3.1\Exercício URI 1051.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\obj\Debug\netcoreapp3.1\Exercício URI 1051.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\obj\Debug\netcoreapp3.1\Exercício URI 1051.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\obj\Debug\netcoreapp3.1\Exercício URI 1051.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\obj\Debug\netcoreapp3.1\Exercício URI 1051.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1051\Exercício URI 1051\obj\Debug\netcoreapp3.1\Exercício URI 1051.genruntimeconfig.cache

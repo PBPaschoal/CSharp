@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FuncoesMatematicasAula19/1.0.0": {
+        "runtime": {
+          "FuncoesMatematicasAula19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuncoesMatematicasAula19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

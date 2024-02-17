@@ -1,0 +1,12 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\bin\Debug\netcoreapp3.1\Revisando switch-case Aula 37.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\bin\Debug\netcoreapp3.1\Revisando switch-case Aula 37.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\bin\Debug\netcoreapp3.1\Revisando switch-case Aula 37.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\bin\Debug\netcoreapp3.1\Revisando switch-case Aula 37.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\bin\Debug\netcoreapp3.1\Revisando switch-case Aula 37.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\bin\Debug\netcoreapp3.1\Revisando switch-case Aula 37.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\obj\Debug\netcoreapp3.1\Revisando switch-case Aula 37.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\obj\Debug\netcoreapp3.1\Revisando switch-case Aula 37.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\obj\Debug\netcoreapp3.1\Revisando switch-case Aula 37.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\obj\Debug\netcoreapp3.1\Revisando switch-case Aula 37.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\obj\Debug\netcoreapp3.1\Revisando switch-case Aula 37.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando switch-case Aula 37\Revisando switch-case Aula 37\obj\Debug\netcoreapp3.1\Revisando switch-case Aula 37.genruntimeconfig.cache

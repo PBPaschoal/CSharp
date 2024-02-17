@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\bin\Debug\netcoreapp3.1\Program1.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\bin\Debug\netcoreapp3.1\Program1.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\bin\Debug\netcoreapp3.1\Program1.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\bin\Debug\netcoreapp3.1\Program1.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\bin\Debug\netcoreapp3.1\Program1.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\obj\Debug\netcoreapp3.1\Program1.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\obj\Debug\netcoreapp3.1\Program1.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\obj\Debug\netcoreapp3.1\Program1.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\obj\Debug\netcoreapp3.1\Program1.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\obj\Debug\netcoreapp3.1\Program1.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Program1\Program1\obj\Debug\netcoreapp3.1\Program1.genruntimeconfig.cache

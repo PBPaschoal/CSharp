@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\bin\Debug\netcoreapp3.1\RevisandoExercicio03.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\bin\Debug\netcoreapp3.1\RevisandoExercicio03.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\bin\Debug\netcoreapp3.1\RevisandoExercicio03.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\bin\Debug\netcoreapp3.1\RevisandoExercicio03.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\bin\Debug\netcoreapp3.1\RevisandoExercicio03.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\bin\Debug\netcoreapp3.1\RevisandoExercicio03.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\obj\Debug\netcoreapp3.1\RevisandoExercicio03.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\obj\Debug\netcoreapp3.1\RevisandoExercicio03.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\obj\Debug\netcoreapp3.1\RevisandoExercicio03.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\obj\Debug\netcoreapp3.1\RevisandoExercicio03.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\obj\Debug\netcoreapp3.1\RevisandoExercicio03.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\obj\Debug\netcoreapp3.1\RevisandoExercicio03.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\RevisandoExercicio03\RevisandoExercicio03\obj\Debug\netcoreapp3.1\RevisandoExercicio03.genruntimeconfig.cache

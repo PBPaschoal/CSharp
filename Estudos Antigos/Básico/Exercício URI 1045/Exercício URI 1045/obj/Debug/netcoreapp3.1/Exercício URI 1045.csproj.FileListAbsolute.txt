@@ -1,0 +1,12 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\bin\Debug\netcoreapp3.1\Exercício URI 1045.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\bin\Debug\netcoreapp3.1\Exercício URI 1045.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\bin\Debug\netcoreapp3.1\Exercício URI 1045.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\bin\Debug\netcoreapp3.1\Exercício URI 1045.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\bin\Debug\netcoreapp3.1\Exercício URI 1045.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\bin\Debug\netcoreapp3.1\Exercício URI 1045.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\obj\Debug\netcoreapp3.1\Exercício URI 1045.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\obj\Debug\netcoreapp3.1\Exercício URI 1045.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\obj\Debug\netcoreapp3.1\Exercício URI 1045.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\obj\Debug\netcoreapp3.1\Exercício URI 1045.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\obj\Debug\netcoreapp3.1\Exercício URI 1045.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1045\Exercício URI 1045\obj\Debug\netcoreapp3.1\Exercício URI 1045.genruntimeconfig.cache

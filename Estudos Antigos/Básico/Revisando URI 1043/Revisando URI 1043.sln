@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisando URI 1043", "Revisando URI 1043\Revisando URI 1043.csproj", "{62A6FCB1-3534-4142-AA4C-B40C7F157BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A6FCB1-3534-4142-AA4C-B40C7F157BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A6FCB1-3534-4142-AA4C-B40C7F157BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A6FCB1-3534-4142-AA4C-B40C7F157BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A6FCB1-3534-4142-AA4C-B40C7F157BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17248FF-60F7-47E7-BBD9-A75B6A5608BE}
+	EndGlobalSection
+EndGlobal

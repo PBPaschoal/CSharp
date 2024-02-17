@@ -1,0 +1,39 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.genruntimeconfig.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 02\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.genruntimeconfig.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\bin\Debug\netcoreapp3.1\ConsigConsultaProgram.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\ConsigConsultaProgram 03\ConsigConsultaProgram\obj\Debug\netcoreapp3.1\ConsigConsultaProgram.genruntimeconfig.cache

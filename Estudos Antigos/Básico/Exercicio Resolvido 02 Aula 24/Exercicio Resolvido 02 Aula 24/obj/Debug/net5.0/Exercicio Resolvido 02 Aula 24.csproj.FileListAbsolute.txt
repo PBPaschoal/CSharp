@@ -1,0 +1,16 @@
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\bin\Debug\net5.0\Exercicio Resolvido 02 Aula 24.exe
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\bin\Debug\net5.0\Exercicio Resolvido 02 Aula 24.deps.json
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\bin\Debug\net5.0\Exercicio Resolvido 02 Aula 24.runtimeconfig.json
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\bin\Debug\net5.0\Exercicio Resolvido 02 Aula 24.runtimeconfig.dev.json
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\bin\Debug\net5.0\Exercicio Resolvido 02 Aula 24.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\bin\Debug\net5.0\ref\Exercicio Resolvido 02 Aula 24.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\bin\Debug\net5.0\Exercicio Resolvido 02 Aula 24.pdb
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.csproj.AssemblyReference.cache
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.AssemblyInfoInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.AssemblyInfo.cs
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.csproj.CoreCompileInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\ref\Exercicio Resolvido 02 Aula 24.dll
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.pdb
+D:\PBPaschoal HD\Estudos\CSharp\Exercicio Resolvido 02 Aula 24\Exercicio Resolvido 02 Aula 24\obj\Debug\net5.0\Exercicio Resolvido 02 Aula 24.genruntimeconfig.cache

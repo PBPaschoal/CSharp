@@ -1,0 +1,12 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\bin\Debug\netcoreapp3.1\URIJudge1078.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\bin\Debug\netcoreapp3.1\URIJudge1078.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\bin\Debug\netcoreapp3.1\URIJudge1078.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\bin\Debug\netcoreapp3.1\URIJudge1078.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\bin\Debug\netcoreapp3.1\URIJudge1078.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\bin\Debug\netcoreapp3.1\URIJudge1078.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\obj\Debug\netcoreapp3.1\URIJudge1078.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\obj\Debug\netcoreapp3.1\URIJudge1078.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\obj\Debug\netcoreapp3.1\URIJudge1078.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\obj\Debug\netcoreapp3.1\URIJudge1078.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\obj\Debug\netcoreapp3.1\URIJudge1078.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\URIJugde1078\URIJugde1078\obj\Debug\netcoreapp3.1\URIJudge1078.genruntimeconfig.cache

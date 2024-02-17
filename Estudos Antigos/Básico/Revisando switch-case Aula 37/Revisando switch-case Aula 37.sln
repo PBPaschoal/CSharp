@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisando switch-case Aula 37", "Revisando switch-case Aula 37\Revisando switch-case Aula 37.csproj", "{FE004DFF-DF9C-43FF-A770-6FE6B6264900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE004DFF-DF9C-43FF-A770-6FE6B6264900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE004DFF-DF9C-43FF-A770-6FE6B6264900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE004DFF-DF9C-43FF-A770-6FE6B6264900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE004DFF-DF9C-43FF-A770-6FE6B6264900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C05A30-5CAF-4F05-B7B8-154E0C8B8C39}
+	EndGlobalSection
+EndGlobal

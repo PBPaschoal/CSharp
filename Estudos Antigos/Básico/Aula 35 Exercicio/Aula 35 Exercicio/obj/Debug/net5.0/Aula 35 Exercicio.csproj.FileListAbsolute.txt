@@ -1,0 +1,16 @@
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\bin\Debug\net5.0\Aula 35 Exercicio.exe
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\bin\Debug\net5.0\Aula 35 Exercicio.deps.json
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\bin\Debug\net5.0\Aula 35 Exercicio.runtimeconfig.json
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\bin\Debug\net5.0\Aula 35 Exercicio.runtimeconfig.dev.json
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\bin\Debug\net5.0\Aula 35 Exercicio.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\bin\Debug\net5.0\ref\Aula 35 Exercicio.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\bin\Debug\net5.0\Aula 35 Exercicio.pdb
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.csproj.AssemblyReference.cache
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.AssemblyInfoInputs.cache
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.AssemblyInfo.cs
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.csproj.CoreCompileInputs.cache
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\ref\Aula 35 Exercicio.dll
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.pdb
+D:\Estudos Programação\Linguagem de Programação\C#\Aula 35 Exercicio\Aula 35 Exercicio\obj\Debug\net5.0\Aula 35 Exercicio.genruntimeconfig.cache

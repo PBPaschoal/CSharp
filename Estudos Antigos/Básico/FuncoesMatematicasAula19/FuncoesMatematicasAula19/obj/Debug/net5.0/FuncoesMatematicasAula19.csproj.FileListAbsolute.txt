@@ -1,0 +1,16 @@
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\bin\Debug\net5.0\FuncoesMatematicasAula19.exe
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\bin\Debug\net5.0\FuncoesMatematicasAula19.deps.json
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\bin\Debug\net5.0\FuncoesMatematicasAula19.runtimeconfig.json
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\bin\Debug\net5.0\FuncoesMatematicasAula19.runtimeconfig.dev.json
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\bin\Debug\net5.0\FuncoesMatematicasAula19.dll
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\bin\Debug\net5.0\ref\FuncoesMatematicasAula19.dll
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\bin\Debug\net5.0\FuncoesMatematicasAula19.pdb
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.csproj.AssemblyReference.cache
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.AssemblyInfoInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.AssemblyInfo.cs
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.csproj.CoreCompileInputs.cache
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.dll
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\ref\FuncoesMatematicasAula19.dll
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.pdb
+D:\PBPaschoal HD\Estudos\CSharp\FuncoesMatematicasAula19\FuncoesMatematicasAula19\obj\Debug\net5.0\FuncoesMatematicasAula19.genruntimeconfig.cache

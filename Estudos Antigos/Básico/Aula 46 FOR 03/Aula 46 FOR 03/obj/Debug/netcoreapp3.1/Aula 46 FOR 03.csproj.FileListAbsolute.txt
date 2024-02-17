@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\bin\Debug\netcoreapp3.1\Aula 46 FOR 03.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\bin\Debug\netcoreapp3.1\Aula 46 FOR 03.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\bin\Debug\netcoreapp3.1\Aula 46 FOR 03.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\bin\Debug\netcoreapp3.1\Aula 46 FOR 03.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\bin\Debug\netcoreapp3.1\Aula 46 FOR 03.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\bin\Debug\netcoreapp3.1\Aula 46 FOR 03.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\obj\Debug\netcoreapp3.1\Aula 46 FOR 03.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\obj\Debug\netcoreapp3.1\Aula 46 FOR 03.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\obj\Debug\netcoreapp3.1\Aula 46 FOR 03.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\obj\Debug\netcoreapp3.1\Aula 46 FOR 03.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\obj\Debug\netcoreapp3.1\Aula 46 FOR 03.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\obj\Debug\netcoreapp3.1\Aula 46 FOR 03.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 03\Aula 46 FOR 03\obj\Debug\netcoreapp3.1\Aula 46 FOR 03.genruntimeconfig.cache

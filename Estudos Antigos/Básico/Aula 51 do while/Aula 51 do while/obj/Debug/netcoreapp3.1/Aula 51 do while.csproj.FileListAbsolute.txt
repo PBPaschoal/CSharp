@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\bin\Debug\netcoreapp3.1\Aula 51 do while.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\bin\Debug\netcoreapp3.1\Aula 51 do while.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\bin\Debug\netcoreapp3.1\Aula 51 do while.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\bin\Debug\netcoreapp3.1\Aula 51 do while.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\bin\Debug\netcoreapp3.1\Aula 51 do while.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\bin\Debug\netcoreapp3.1\Aula 51 do while.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\obj\Debug\netcoreapp3.1\Aula 51 do while.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\obj\Debug\netcoreapp3.1\Aula 51 do while.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\obj\Debug\netcoreapp3.1\Aula 51 do while.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\obj\Debug\netcoreapp3.1\Aula 51 do while.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\obj\Debug\netcoreapp3.1\Aula 51 do while.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\obj\Debug\netcoreapp3.1\Aula 51 do while.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 51 do while\Aula 51 do while\obj\Debug\netcoreapp3.1\Aula 51 do while.genruntimeconfig.cache

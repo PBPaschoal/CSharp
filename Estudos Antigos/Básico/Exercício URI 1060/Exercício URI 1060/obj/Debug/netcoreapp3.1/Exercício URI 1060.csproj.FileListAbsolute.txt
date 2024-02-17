@@ -1,0 +1,12 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\bin\Debug\netcoreapp3.1\Exercício URI 1060.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\bin\Debug\netcoreapp3.1\Exercício URI 1060.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\bin\Debug\netcoreapp3.1\Exercício URI 1060.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\bin\Debug\netcoreapp3.1\Exercício URI 1060.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\bin\Debug\netcoreapp3.1\Exercício URI 1060.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\bin\Debug\netcoreapp3.1\Exercício URI 1060.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\obj\Debug\netcoreapp3.1\Exercício URI 1060.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\obj\Debug\netcoreapp3.1\Exercício URI 1060.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\obj\Debug\netcoreapp3.1\Exercício URI 1060.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\obj\Debug\netcoreapp3.1\Exercício URI 1060.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\obj\Debug\netcoreapp3.1\Exercício URI 1060.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Exercício URI 1060\Exercício URI 1060\obj\Debug\netcoreapp3.1\Exercício URI 1060.genruntimeconfig.cache

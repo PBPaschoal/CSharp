@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\bin\Debug\netcoreapp3.1\Lanche.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\bin\Debug\netcoreapp3.1\Lanche.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\bin\Debug\netcoreapp3.1\Lanche.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\bin\Debug\netcoreapp3.1\Lanche.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\bin\Debug\netcoreapp3.1\Lanche.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\bin\Debug\netcoreapp3.1\Lanche.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\obj\Debug\netcoreapp3.1\Lanche.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\obj\Debug\netcoreapp3.1\Lanche.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\obj\Debug\netcoreapp3.1\Lanche.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\obj\Debug\netcoreapp3.1\Lanche.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\obj\Debug\netcoreapp3.1\Lanche.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\obj\Debug\netcoreapp3.1\Lanche.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Lanche\Lanche\obj\Debug\netcoreapp3.1\Lanche.genruntimeconfig.cache
