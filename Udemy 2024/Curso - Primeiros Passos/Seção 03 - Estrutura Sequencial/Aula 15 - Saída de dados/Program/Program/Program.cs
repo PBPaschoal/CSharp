@@ -1,5 +1,4 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
 namespace Program
 {
@@ -7,10 +6,13 @@ namespace Program
     {
         static void Main(string[] args)
         {
+            double x = 10.35784;
+            int y = 32;
+            string z = "Maria";
+            char w = 'F';
+
             Console.WriteLine("Olá mundo");
             Console.Write("Bom dia!");
-
-            double x = 10.35784;
 
             Console.WriteLine(x);
 
@@ -24,6 +26,9 @@ namespace Program
             Console.WriteLine("O valor do troco é " + x + " reais");
 
             Console.WriteLine("O valor do troco é " + x.ToString("F2") + " reais");
+
+            Console.WriteLine();
+            Console.WriteLine("A paciente " + z + " tem " + y + " anos e seu sexo é: " + w);
         }
     }
 }

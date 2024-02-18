@@ -1,22 +1,37 @@
-# C# 💬
+# C# 
 Estudos em C#
 # Curso - Udemy
-* C# Básico e Avançado.
-* Professor Nelio Alves
-# Sobre o projeto: ConsigConsultaProgram 03
-[O projeto]() foi atualizado em 26-08-2020. 
-Trata-se de simulador de empréstimo consignado que desenvolvi primeiro em [C++](https://github.com/PBPaschoal/CPlusPlus/blob/master/ProgrammingConsig.cpp), [Java](https://github.com/PBPaschoal/Java/blob/main/Udemy/Antigo/Inicio%20Java/ConsigConsulta.java) e depois [C#](https://github.com/PBPaschoal/CSharp/blob/main/B%C3%A1sico/ConsigConsulta.cs)
-* O programa é bem simples e intuitivo, fácil de entender:
-  * Primeiro você deve cadastrar o usuário e senha;
-  * Após o cadastro, deve fazer o login. Caso tenha algum dado invalido o programa irá informar;
-  * Informe o banco, dia e o mês atual (tudo na mesma linha ([vetor](https://docs.microsoft.com/pt-br/dotnet/csharp/how-to/parse-strings-using-split) e o mês podem ser tanto número quanto texto);
-  * Depois basta escolher o órgão publico desejado para a simulação;
-  * Em seguida podemos informar a porcentagem da comissão referente a proposta contratada (no ramo de empréstimo consignado para CORBAN, é feito um pagamento para o mesmo, uma pequena porcentagem pela proposta que o cliente fez. Essa porcentagem (valor) varia dependendo da operação, banco, órgão, prazo entre outras informações);
-  * Escolha o tipo de operação: NOVO ou REFINANCIAMENTO;
-  * Informe os dados pessoais do cliente, valor bruto (liquido, troco), parcela e prazo);
-  * Caso o valor desejado seja menor que o valor disponível (dependendo do órgão, prazo etc... informado no RO = Roteiro Operacional do banco), o programa irá apresentar uma critica, informando que não atingiu o valor mínimo para prosseguir;
-  * O valor mínimo sendo atingido, o programa vai prosseguir para a última etapa e informar o resultado. No caso de operação NOVA é apresentado o valor da comissão e no caso de REFINANCIAMENTO é apresentado o valor liquido (troco) do cliente e a comissão recebida pelo corretor (CORBAN, VENDEDOR).
-# Simulador de empréstimo consignado | Versões:
+C# primeiros passos: Lógica de Programação e Algoritmos.
+
+OBS: Concluído em Agosto 2020. 
+Revisando o curso: Inicializando em 17/02/2024.
+
+Sobre este curso
+Curso equivalente à disciplina de Lógica de Programação da faculdade. Vamos usar C# como linguagem e o Visual Studio.
+
+- Compreender e aplicar os fundamentos básicos de programação: estrutura sequencial, estrutura condicional, estruturas repetitivas, vetores e matrizes.
+- Aplicar os conhecimentos adquiridos para solução de problemas básicos usando a linguagem C#.
+- Utilizar o Microsoft Visual Studio para editar, depurar e executar programas.
+
+Professor Nelio Alves
+
+---------------------------
+
+C# COMPLETO Programação Orientada a Objetos + Projetos.
+
+Sobre este curso
+Curso mais didático e completo de C# e OO, coleções, UML, ASP.NET, Entity Framework, LINQ, Lambda e muito mais.
+
+- Dominar Programação Orientada a Objetos e linguagem C#.
+Criar soluções flexíveis, extensíveis e testáveis
+- Adquirir a base sólida teórica e prática para ser um desenvolvedor C# de sucesso.
+- Aplicar o conhecimento de orientação a objetos na construção de soluções para problemas reais.
+- Compreender diagramas de classe UML, tanto de entidades quanto de serviços.
+
+Professor Nelio Alves
+  
+# Projetos:
+#### Simulador de empréstimo consignado | Versões:
 Primeira versão:
 [C++](https://github.com/PBPaschoal/CPlusPlus/blob/master/ProgrammingConsig.cpp)
 
@@ -27,9 +42,14 @@ Terceira versão:
 [Java](https://github.com/PBPaschoal/Java/blob/main/Udemy/Antigo/Inicio%20Java/ConsigConsulta.java)
 
 Quarta versão:
-[C#](https://github.com/PBPaschoal/CSharp/blob/main/B%C3%A1sico/ConsigConsulta.cs)
+[C#](https://github.com/PBPaschoal/CSharp/blob/main/Estudos%20Antigos/B%C3%A1sico/ConsigConsulta.cs)
 
 Quinta versão: 
-[C#](https://github.com/PBPaschoal/CSharp/tree/main/B%C3%A1sico/ConsigConsultaProgram%2003)
+[C#](https://github.com/PBPaschoal/CSharp/blob/main/Estudos%20Antigos/B%C3%A1sico/ConsigConsultaProgram%2003/ConsigConsultaProgram/ConsigConsulta03.cs)
+
+Sexta versão: 
+[Java POO](https://github.com/PBPaschoal/Java/tree/main/Projetos/Meus%20Projetos/Simulador%20Emprestimo%20Consignado)
+
+-----------------
  
  ![CSharp](https://i.ibb.co/dD2L5rC/csharp.png)
