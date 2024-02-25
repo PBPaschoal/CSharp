@@ -1,0 +1,15 @@
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Programação - Estudos\CSharp\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 18 - Entrada de dados Parte 02\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
