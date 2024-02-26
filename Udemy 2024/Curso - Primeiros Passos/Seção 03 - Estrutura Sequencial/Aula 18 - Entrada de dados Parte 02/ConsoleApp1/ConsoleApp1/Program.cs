@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using System.Globalization;
 
 namespace MyApp // Note: actual namespace depends on the project name.
@@ -15,12 +16,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
             string nome = vet[0];
             char sexo = char.Parse(vet[1]);
             int idade = int.Parse(vet[2]);
-            double altura = 
-
+            double altura = double.Parse(vet[3], CultureInfo.InvariantCulture);
 
             Console.WriteLine("Você digitou: " + n1);
             Console.WriteLine("Você digitou: " + ch);
             Console.WriteLine("Você digitou: " + n2.ToString("F2", CultureInfo.InvariantCulture));
+
+            Console.WriteLine();
         }
     }
 }
