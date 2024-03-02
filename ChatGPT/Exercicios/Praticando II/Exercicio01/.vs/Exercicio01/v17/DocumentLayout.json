@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\professor\\Documents\\Praticando II\\Exercicio01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8A28FA-44D2-48D1-916A-7FA11A098E2D}|Exercicio01\\Exercicio01.csproj|c:\\users\\professor\\documents\\praticando ii\\exercicio01\\exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8A28FA-44D2-48D1-916A-7FA11A098E2D}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\professor\\Documents\\Praticando II\\Exercicio01\\Exercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\professor\\Documents\\Praticando II\\Exercicio01\\Exercicio01\\Program.cs",
+              "RelativeToolTip": "Exercicio01\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:49:54.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
