@@ -1,4 +1,4 @@
-# C# 
+# C# .NET 
 Estudos em C#
 # Curso - Udemy
 C# primeiros passos: Lógica de Programação e Algoritmos.
