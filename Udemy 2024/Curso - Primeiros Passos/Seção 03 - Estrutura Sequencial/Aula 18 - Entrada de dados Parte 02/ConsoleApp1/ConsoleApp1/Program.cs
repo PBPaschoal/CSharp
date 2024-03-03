@@ -21,6 +21,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Você digitou: " + n1);
             Console.WriteLine("Você digitou: " + ch);
             Console.WriteLine("Você digitou: " + n2.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Você digitou: " + nome);
+            Console.WriteLine("Você digitou: " + sexo);
+            Console.WriteLine("Você digitou: " + idade);
+            Console.WriteLine("Você digitou: " + altura.ToString("F2", CultureInfo.InvariantCulture));
 
             Console.WriteLine();
         }
