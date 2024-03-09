@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\bin\Debug\net8.0\Exercicio014.exe
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\bin\Debug\net8.0\Exercicio014.deps.json
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\bin\Debug\net8.0\Exercicio014.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\bin\Debug\net8.0\Exercicio014.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\bin\Debug\net8.0\Exercicio014.pdb
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\refint\Exercicio014.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.pdb
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\Exercicio014.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando II\Exercicio014\Exercicio014\obj\Debug\net8.0\ref\Exercicio014.dll
