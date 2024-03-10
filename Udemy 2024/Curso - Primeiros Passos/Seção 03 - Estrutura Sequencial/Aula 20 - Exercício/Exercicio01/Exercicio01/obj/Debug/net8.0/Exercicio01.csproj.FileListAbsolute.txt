@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.exe
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.deps.json
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.dll
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.pdb
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.dll
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\refint\Exercicio01.dll
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.pdb
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\C#\Udemy 2024\Curso - Primeiros Passos\Seção 03 - Estrutura Sequencial\Aula 20 - Exercício\Exercicio01\Exercicio01\obj\Debug\net8.0\ref\Exercicio01.dll
