@@ -1,0 +1,29 @@
+Debug
+
+Clique na linha desejada do código e aperte F9 ou clique em Depurar > Alterar Ponto de Interrupção e depois clique em F5 ou Depurar > Iniciar Depuração
+Se necessário aperte F10 para o debug prosseguir.
+
+Detalhadamente:
+
+1. Definindo Pontos de Interrupção:
+
+Clique na linha desejada do código: Correto. Ao clicar na linha, um marcador vermelho será exibido, indicando o ponto de interrupção.
+Aperte F9: Correto. Pressionar F9 define um ponto de interrupção na linha selecionada.
+Clique em Depurar > Alterar Ponto de Interrupção: Essa opção não define um ponto de interrupção. Ela abre a janela "Gerenciador de Pontos de Interrupção", onde você pode visualizar, editar e remover pontos de interrupção já existentes.
+2. Iniciando a Depuração:
+
+Clique em F5 ou Depurar > Iniciar Depuração: Correto. Ambas as opções iniciam a execução do código com o depurador anexado. A execução irá parar no primeiro ponto de interrupção encontrado.
+3. Navegando no Código durante a Depuração:
+
+Se necessário aperte F10 para o debug prosseguir: Correto. F10 avança linha por linha no código, permitindo analisar o valor das variáveis e o fluxo de execução.
+Outras Ferramentas Úteis:
+
+F11: Executa o código até a próxima linha ou função.
+Shift + F11: Sai da função atual.
+Ctrl + Shift + F11: Executa o código até o próximo ponto de interrupção.
+Janela "Auto" e "Locais": Exibem o valor das variáveis durante a depuração.
+Barra de Ferramentas de Depuração: Contém botões para iniciar, parar, pausar e navegar no código durante a depuração.
+Observações:
+
+É possível definir pontos de interrupção condicional, que só serão ativados quando uma condição específica for verdadeira.
+O Visual Studio oferece diversos outros recursos de depuração avançados, como IntelliTrace e análise de memória.

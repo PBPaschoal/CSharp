@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\C#\\Udemy 2024\\Curso - Primeiros Passos\\Se\u00E7\u00E3o 03 - Estrutura Sequencial\\Aula 20 - Exerc\u00EDcio\\Exercicio01\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{81054236-F44B-471F-9D70-EE05DFD2CDD0}|Exercicio01\\Exercicio01.csproj|c:\\users\\bruno paschoal\\documents\\c#\\udemy 2024\\curso - primeiros passos\\se\u00E7\u00E3o 03 - estrutura sequencial\\aula 20 - exerc\u00EDcio\\exercicio01\\exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81054236-F44B-471F-9D70-EE05DFD2CDD0}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\C#\\Udemy 2024\\Curso - Primeiros Passos\\Se\u00E7\u00E3o 03 - Estrutura Sequencial\\Aula 20 - Exerc\u00EDcio\\Exercicio01\\Exercicio01\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio01\\Program.cs",
-              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\C#\\Udemy 2024\\Curso - Primeiros Passos\\Se\u00E7\u00E3o 03 - Estrutura Sequencial\\Aula 20 - Exerc\u00EDcio\\Exercicio01\\Exercicio01\\Program.cs",
-              "RelativeToolTip": "Exercicio01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T21:42:04.529Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
