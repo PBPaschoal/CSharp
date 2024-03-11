@@ -1,0 +1,10 @@
+Exercícios Propostos PARTE 01:
+
+Exercícios resolvidos:
+Resolvido 01
+beecrowd 1000 e 1001
+
+Exercícios propostos do beecrowd:
+1002, 1003, 1004, 1007, 1008, 1010, 1014, 1016, 1017
+1005, 1006 - média ponderada
+
