@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\E1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\E1002.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\E1002.AssemblyInfo.cs
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\E1002.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\bin\Debug\net8.0\E1002.exe
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\bin\Debug\net8.0\E1002.deps.json
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\bin\Debug\net8.0\E1002.runtimeconfig.json
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\bin\Debug\net8.0\E1002.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\bin\Debug\net8.0\E1002.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\E1002.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\refint\E1002.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\E1002.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\E1002.genruntimeconfig.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1002\E1002\obj\Debug\net8.0\ref\E1002.dll
