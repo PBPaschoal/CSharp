@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\E1008\E1008\bin\Debug\net8.0\E1008.exe
+C:\Users\professor\Documents\E1008\E1008\bin\Debug\net8.0\E1008.deps.json
+C:\Users\professor\Documents\E1008\E1008\bin\Debug\net8.0\E1008.runtimeconfig.json
+C:\Users\professor\Documents\E1008\E1008\bin\Debug\net8.0\E1008.dll
+C:\Users\professor\Documents\E1008\E1008\bin\Debug\net8.0\E1008.pdb
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\E1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\E1008.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\E1008.AssemblyInfo.cs
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\E1008.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\E1008.dll
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\refint\E1008.dll
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\E1008.pdb
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\E1008.genruntimeconfig.cache
+C:\Users\professor\Documents\E1008\E1008\obj\Debug\net8.0\ref\E1008.dll
