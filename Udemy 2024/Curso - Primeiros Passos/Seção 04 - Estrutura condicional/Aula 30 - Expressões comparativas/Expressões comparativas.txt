@@ -1,0 +1,22 @@
+Expressões comparativas:
+
+expressão -> valor verdade
+5 > 10 -> Falso
+
+Operadores comparativos:
+
+Operador       Significado
+   >           maior
+   <           menor
+   >=          maior ou igual
+   <=          manor ou igual
+   ==          igual
+   !=          diferente
+
+Exemplo de expressões comparativas:
+Suponha x igual a 5
+
+x > 0     Resultado: V
+x == 3    Resultado: F
+10 <= 30  Resultado: V
+x != 2    Resultado: V

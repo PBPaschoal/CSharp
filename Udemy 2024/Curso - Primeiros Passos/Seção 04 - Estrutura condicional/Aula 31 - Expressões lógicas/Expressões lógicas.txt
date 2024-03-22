@@ -1,0 +1,92 @@
+Expressões lógicas:
+
+expressão  ->  valor verdade
+
+Operador   Significado
+&&         E
+||         OU
+!          NÃO
+
+Ideia por trás do operador "E"
+
+Você pode obter uma habilitação de motorista se:
+
+For aprovado no exame psicotécnico,
+E
+por aprovado no exame de legislação,
+E
+For aprovado no exame de direção
+
+Todas condições devem ser verdadeiras!
+
+Exemplos de expressões lógicas
+
+suponha x igual a 5
+
+x <= 20 && x == 10  Resultado: Falso
+
+x > 0 && x != 3  Resultado: Verdadeiro
+
+x <= 20 && x == 10 && x !=3   Resultado: Falso
+
+Tabela verdade do operador "E"
+A B    A && B
+F F       F
+F V       F
+V F       F
+V V       V
+
+Ideia por trás do operador "OU"
+
+Você pode obter estacionar na vaga especial se:
+
+For idoso(a),
+OU
+For uma pessoa com deficiência,
+OU
+For uma gestante
+
+Pelo menos uma condição deve ser verdadeira!
+
+Exemplos de expressões lógicas
+suponha x igual a 5
+x == 10 || x <= 20   Resultado: V
+
+x > 0 || x != 3   Resultado: V
+
+x <= 0 || x != 3 || x != 5   Resultado: V
+
+Tabela verdade do operador "OU"
+
+A B   A || B
+F F     F
+F V     V
+V F     V
+V V     V
+
+Ideia por trás do operador "NÃO"
+
+Você tem direito a receber uma bolsa de estudos se você:
+
+NÃO
+Possuir renda maior que $ 3000.00
+
+João = $ 5000.00 FALSO
+José = $ 2000.00 VERDADEIRO
+
+O operador "NÃO" inverte a condição
+
+Exemplos de expressões lógicas
+suponha x igual a 5
+
+!(x == 10)  Resultado: Verdadeiro
+
+!(x >= 2)  Resultado: Falso
+
+!(x <= 20 && x == 10)  Resultado: Verdadeiro
+
+Tabela verdade do operador "NÃO"
+
+A  !A
+F  V
+V  F
