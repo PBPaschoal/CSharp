@@ -1,0 +1,83 @@
+Aula 32- Estrutura condicional
+
+Conceito
+É uma estrutura de controle que permite definir que um certo bloco de comandos somente será executado dependendo de uma condição.
+
+
+
+Condição:
+
+V
+Bloco 1
+
+
+F
+Bloco 2
+
+Sintaxe da estrutura condicional
+
+Simples:
+
+if (<condição>) {
+    <comando 1>
+    <comando 2>
+}
+
+Importante: Repare na endentação!
+
+Regra:
+V: executa o bloco de comandos
+F: pula o bloco de comandos
+
+Sintaxe da estritira condicional
+
+Composta:
+
+if(<condição>) {
+   <comando 1>
+   <comando 2>
+}
+else {
+   <comando 3>
+   <comando 4>
+}
+
+Regra:
+V: executa somente o bloco do if
+F: executa somente o bloco do else
+
+Encadeamento de estruturas condicionais
+
+if(condição 1){
+   comando 1
+   comando 2
+}
+else {
+  if(condição 2){
+     comando 3
+     comando 4
+  }
+  else {
+     comando 5
+     comando 6
+  }
+}
+
+Outro exemplo:
+
+if(condição 1){
+   comando 1
+   comando 2
+}
+else if(condição 2){
+     comando 3
+     comando 4
+}
+else if(condição 3) {
+     comando 5
+     comando 6
+}
+else {
+     comando 7
+     comando 8
+}

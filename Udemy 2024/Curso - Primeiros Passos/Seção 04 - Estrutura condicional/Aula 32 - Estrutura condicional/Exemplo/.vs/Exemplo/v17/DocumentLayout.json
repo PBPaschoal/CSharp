@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Desktop\\Exemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F41897-C5DC-4118-A611-912E812A0FC7}|Exemplo\\Exemplo.csproj|c:\\users\\bruno paschoal\\desktop\\exemplo\\exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F41897-C5DC-4118-A611-912E812A0FC7}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Desktop\\Exemplo\\Exemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Desktop\\Exemplo\\Exemplo\\Program.cs",
+              "RelativeToolTip": "Exemplo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T01:57:28.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
