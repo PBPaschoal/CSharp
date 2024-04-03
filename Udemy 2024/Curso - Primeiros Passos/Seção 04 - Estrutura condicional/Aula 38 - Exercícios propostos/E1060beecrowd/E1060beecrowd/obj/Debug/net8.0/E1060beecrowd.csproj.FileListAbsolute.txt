@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\bin\Debug\net8.0\E1060beecrowd.exe
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\bin\Debug\net8.0\E1060beecrowd.deps.json
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\bin\Debug\net8.0\E1060beecrowd.runtimeconfig.json
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\bin\Debug\net8.0\E1060beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\bin\Debug\net8.0\E1060beecrowd.pdb
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\E1060beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\E1060beecrowd.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\E1060beecrowd.AssemblyInfo.cs
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\E1060beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\E1060beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\refint\E1060beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\E1060beecrowd.pdb
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\E1060beecrowd.genruntimeconfig.cache
+C:\Users\professor\Documents\Visual Studio 2022\E1060beecrowd\E1060beecrowd\obj\Debug\net8.0\ref\E1060beecrowd.dll
