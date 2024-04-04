@@ -1,0 +1,11 @@
+EXERCÍCIOS PROPOSTOS - PARTE 2
+
+PROBLEMAS DO URI ONLINE JUDGE COM ESTRUTURA ENQUANTO
+
+Caros estudantes, com base no que aprendemos sobre estrutura enquanto, já é possível resolver os seguintes exercícios do URI Online Judge:
+
+
+
+Primeiro grupo: 1114, 1115, 1117, 1134, 1154, 1159
+
+Segundo grupo: 1118, 1131

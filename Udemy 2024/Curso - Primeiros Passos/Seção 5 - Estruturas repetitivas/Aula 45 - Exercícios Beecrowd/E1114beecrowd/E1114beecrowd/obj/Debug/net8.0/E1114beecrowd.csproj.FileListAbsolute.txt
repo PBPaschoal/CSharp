@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\bin\Debug\net8.0\E1114beecrowd.exe
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\bin\Debug\net8.0\E1114beecrowd.deps.json
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\bin\Debug\net8.0\E1114beecrowd.runtimeconfig.json
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\bin\Debug\net8.0\E1114beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\bin\Debug\net8.0\E1114beecrowd.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\E1114beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\E1114beecrowd.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\E1114beecrowd.AssemblyInfo.cs
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\E1114beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\E1114beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\refint\E1114beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\E1114beecrowd.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\E1114beecrowd.genruntimeconfig.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 45 - Exercícios Beecrowd\E1114beecrowd\E1114beecrowd\obj\Debug\net8.0\ref\E1114beecrowd.dll
