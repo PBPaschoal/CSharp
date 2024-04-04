@@ -20,8 +20,36 @@ using System.Globalization;
 
 namespace Program { 
     internal class Program {
-        static void Main(string[] args) { 
-            
+        static void Main(string[] args) {
+            int value1, value2, value3, value4, value5;
+            int par = 0;
+            int impar = 0;
+            int positivo = 0;
+            int negativo = 0;
+
+            value1 = int.Parse(Console.ReadLine());
+            value2 = int.Parse(Console.ReadLine());
+            value3 = int.Parse(Console.ReadLine());
+            value4 = int.Parse(Console.ReadLine());
+            value5 = int.Parse(Console.ReadLine());
+
+            // Verificando paridade e sinal dos valores
+            if (value1 % 2 == 0) par++; else impar++;
+            if (value2 % 2 == 0) par++; else impar++;
+            if (value3 % 2 == 0) par++; else impar++;
+            if (value4 % 2 == 0) par++; else impar++;
+            if (value5 % 2 == 0) par++; else impar++;
+
+            if (value1 > 0) positivo++; else if (value1 < 0) negativo++;
+            if (value2 > 0) positivo++; else if (value2 < 0) negativo++;
+            if (value3 > 0) positivo++; else if (value3 < 0) negativo++;
+            if (value4 > 0) positivo++; else if (value4 < 0) negativo++;
+            if (value5 > 0) positivo++; else if (value5 < 0) negativo++;
+
+            Console.WriteLine(par + " valor(es) par(es)");
+            Console.WriteLine(impar + " valor(es) impar(es)");
+            Console.WriteLine(positivo + " valor(es) positivo(s)");
+            Console.WriteLine(negativo + " valor(es) negativo(s)");
         }
     }
 }

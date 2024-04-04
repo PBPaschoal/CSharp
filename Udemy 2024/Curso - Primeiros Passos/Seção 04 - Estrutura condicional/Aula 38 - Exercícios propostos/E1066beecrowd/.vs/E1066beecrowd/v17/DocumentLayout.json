@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\E1066beecrowd\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{81E81FE9-DCA7-4187-A48D-40B24B9E5AD3}|E1066beecrowd\\E1066beecrowd.csproj|c:\\users\\professor\\documents\\visual studio 2022\\e1066beecrowd\\e1066beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81E81FE9-DCA7-4187-A48D-40B24B9E5AD3}|E1066beecrowd\\E1066beecrowd.csproj|solutionrelative:e1066beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\E1066beecrowd\\E1066beecrowd\\Program.cs",
-              "RelativeDocumentMoniker": "E1066beecrowd\\Program.cs",
-              "ToolTip": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\E1066beecrowd\\E1066beecrowd\\Program.cs",
-              "RelativeToolTip": "E1066beecrowd\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T19:32:47.994Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
