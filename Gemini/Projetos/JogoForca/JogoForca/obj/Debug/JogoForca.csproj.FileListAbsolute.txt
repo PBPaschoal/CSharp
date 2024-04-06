@@ -1,0 +1,5 @@
+C:\Users\professor\Documents\Visual Studio 2022\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.AssemblyReference.cache
+C:\Users\professor\Documents\Visual Studio 2022\JogoForca\JogoForca\obj\Debug\JogoForca.Form1.resources
+C:\Users\professor\Documents\Visual Studio 2022\JogoForca\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+C:\Users\professor\Documents\Visual Studio 2022\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.cache
+C:\Users\professor\Documents\Visual Studio 2022\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.CoreCompileInputs.cache
