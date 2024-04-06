@@ -1,0 +1,17 @@
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\bin\Debug\net8.0-windows\JogoForca.exe
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\bin\Debug\net8.0-windows\JogoForca.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\bin\Debug\net8.0-windows\JogoForca.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\bin\Debug\net8.0-windows\JogoForca.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\bin\Debug\net8.0-windows\JogoForca.pdb
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.Form1.resources
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.csproj.GenerateResource.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\refint\JogoForca.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.pdb
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\JogoForca.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Gemini\Projetos\JogoForca\JogoForca\obj\Debug\net8.0-windows\ref\JogoForca.dll

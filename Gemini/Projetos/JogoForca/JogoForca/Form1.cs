@@ -1,11 +1,5 @@
-Ôªøusing System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
+using System;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace JogoForca
@@ -13,9 +7,9 @@ namespace JogoForca
     public partial class Form1 : Form
     {
         // Array de palavras
-        string[] palavras = { "banana", "ma√ß√£", "casa", "mesa", "livro" };
+        string[] palavras = { "banana", "maÁ„", "casa", "mesa", "livro" };
 
-        // Vari√°veis do jogo
+        // Vari·veis do jogo
         string palavraSecreta;
         string palavraComLetras = "";
         int tentativas = 6;
@@ -24,10 +18,7 @@ namespace JogoForca
         public Form1()
         {
             InitializeComponent();
-        }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
             // Gerar palavra secreta
             palavraSecreta = palavras[new Random().Next(palavras.Length)];
 
@@ -49,26 +40,16 @@ namespace JogoForca
                 if (palavraSecreta.Contains(letra))
                 {
                     // Atualizar palavra com as letras acertadas
+                    StringBuilder novaPalavra = new StringBuilder(palavraComLetras);
                     for (int i = 0; i < palavraSecreta.Length; i++)
                     {
-                        if (palavraSecreta.Contains(letra))
+                        if (palavraSecreta[i] == letra[0]) // Verifica se a letra est· correta
                         {
-                            // Atualizar palavra com as letras acertadas
-                            StringBuilder novaPalavra = new StringBuilder(palavraComLetras);
-                            for (i = 0; i < palavraSecreta.Length; i++)
-                            {
-                                if (palavraSecreta[i] == letra[0]) // Verifica se a letra est√° correta
-                                {
-                                    novaPalavra[i] = letra[0]; // Atualiza a letra na posi√ß√£o correta
-                                }
-                            }
-
-                            palavraComLetras = novaPalavra.ToString(); // Atualiza a palavraComLetras com a nova palavra constru√≠da
-
-                            // Atualizar labels
-                            lblPalavra.Text = palavraComLetras;
+                            novaPalavra[i] = letra[0]; // Atualiza a letra na posiÁ„o correta
                         }
                     }
+
+                    palavraComLetras = novaPalavra.ToString(); // Atualiza a palavraComLetras com a nova palavra construÌda
 
                     // Atualizar labels
                     lblPalavra.Text = palavraComLetras;
@@ -76,22 +57,22 @@ namespace JogoForca
                     // Verificar se a palavra foi completada
                     if (palavraComLetras == palavraSecreta)
                     {
-                        MessageBox.Show("Parab√©ns, voc√™ adivinhou a palavra!");
+                        MessageBox.Show("ParabÈns, vocÍ adivinhou a palavra!");
                         btnTentar.Enabled = false;
                     }
                 }
                 else
                 {
-                    // Aumentar o n√∫mero de erros
+                    // Aumentar o n˙mero de erros
                     erros++;
 
                     // Atualizar labels
-                    lblTentativas.Text = lblTentativas.Text.Replace("Tentativas", "Tentativas Restantes: " + (tentativas - erros).ToString());
+                    lblTentativas.Text = "Tentativas Restantes: " + (tentativas - erros).ToString();
 
                     // Verificar se o jogador perdeu
                     if (erros == tentativas)
                     {
-                        MessageBox.Show("Voc√™ perdeu! A palavra secreta era " + palavraSecreta);
+                        MessageBox.Show("VocÍ perdeu! A palavra secreta era " + palavraSecreta);
                         btnTentar.Enabled = false;
                     }
                 }

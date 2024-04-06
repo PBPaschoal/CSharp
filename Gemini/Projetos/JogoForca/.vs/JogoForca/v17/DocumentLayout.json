@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\JogoForca\\",
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPASCHOAL\\Programa\u00E7\u00E3o - Desenvolvimento de Software\\Back-end\\C#\\Gemini\\Projetos\\JogoForca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FC2E2E6-B9F4-4CF6-946A-F02BF47BF2D2}|JogoForca\\JogoForca.csproj|c:\\users\\professor\\documents\\visual studio 2022\\jogoforca\\jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FC2E2E6-B9F4-4CF6-946A-F02BF47BF2D2}|JogoForca\\JogoForca.csproj|solutionrelative:jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DD58E0E-32E8-4676-A004-E1F25FFEDB3A}|JogoForca\\JogoForca.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o - desenvolvimento de software\\back-end\\c#\\gemini\\projetos\\jogoforca\\jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD58E0E-32E8-4676-A004-E1F25FFEDB3A}|JogoForca\\JogoForca.csproj|solutionrelative:jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FC2E2E6-B9F4-4CF6-946A-F02BF47BF2D2}|JogoForca\\JogoForca.csproj|c:\\users\\professor\\documents\\visual studio 2022\\jogoforca\\jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5FC2E2E6-B9F4-4CF6-946A-F02BF47BF2D2}|JogoForca\\JogoForca.csproj|solutionrelative:jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5DD58E0E-32E8-4676-A004-E1F25FFEDB3A}|JogoForca\\JogoForca.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o - desenvolvimento de software\\back-end\\c#\\gemini\\projetos\\jogoforca\\jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD58E0E-32E8-4676-A004-E1F25FFEDB3A}|JogoForca\\JogoForca.csproj|solutionrelative:jogoforca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD58E0E-32E8-4676-A004-E1F25FFEDB3A}|JogoForca\\JogoForca.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o - desenvolvimento de software\\back-end\\c#\\gemini\\projetos\\jogoforca\\jogoforca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD58E0E-32E8-4676-A004-E1F25FFEDB3A}|JogoForca\\JogoForca.csproj|solutionrelative:jogoforca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\JogoForca\\JogoForca\\Form1.cs",
-              "RelativeDocumentMoniker": "JogoForca\\Form1.cs",
-              "ToolTip": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\JogoForca\\JogoForca\\Form1.cs",
-              "RelativeToolTip": "JogoForca\\Form1.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAywDkAAAAhAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPASCHOAL\\Programa\u00E7\u00E3o - Desenvolvimento de Software\\Back-end\\C#\\Gemini\\Projetos\\JogoForca\\JogoForca\\Program.cs",
+              "RelativeDocumentMoniker": "JogoForca\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPASCHOAL\\Programa\u00E7\u00E3o - Desenvolvimento de Software\\Back-end\\C#\\Gemini\\Projetos\\JogoForca\\JogoForca\\Program.cs",
+              "RelativeToolTip": "JogoForca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:11:42.722Z",
+              "WhenOpened": "2024-04-06T15:20:17.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\JogoForca\\JogoForca\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPASCHOAL\\Programa\u00E7\u00E3o - Desenvolvimento de Software\\Back-end\\C#\\Gemini\\Projetos\\JogoForca\\JogoForca\\Form1.cs",
               "RelativeDocumentMoniker": "JogoForca\\Form1.cs",
-              "ToolTip": "C:\\Users\\professor\\Documents\\Visual Studio 2022\\JogoForca\\JogoForca\\Form1.cs [Design]",
-              "RelativeToolTip": "JogoForca\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPASCHOAL\\Programa\u00E7\u00E3o - Desenvolvimento de Software\\Back-end\\C#\\Gemini\\Projetos\\JogoForca\\JogoForca\\Form1.cs",
+              "RelativeToolTip": "JogoForca\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwFMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T12:10:16.832Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-06T15:16:21.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPASCHOAL\\Programa\u00E7\u00E3o - Desenvolvimento de Software\\Back-end\\C#\\Gemini\\Projetos\\JogoForca\\JogoForca\\Form1.cs",
+              "RelativeDocumentMoniker": "JogoForca\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPASCHOAL\\Programa\u00E7\u00E3o - Desenvolvimento de Software\\Back-end\\C#\\Gemini\\Projetos\\JogoForca\\JogoForca\\Form1.cs [Projeto]",
+              "RelativeToolTip": "JogoForca\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:12:14.075Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
