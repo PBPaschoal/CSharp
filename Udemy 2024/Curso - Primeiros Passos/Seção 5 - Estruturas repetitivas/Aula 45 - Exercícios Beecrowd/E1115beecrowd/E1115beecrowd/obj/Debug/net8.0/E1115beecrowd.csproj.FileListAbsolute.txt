@@ -1,0 +1,14 @@
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\bin\Debug\net8.0\E1115beecrowd.exe
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\bin\Debug\net8.0\E1115beecrowd.deps.json
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\bin\Debug\net8.0\E1115beecrowd.runtimeconfig.json
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\bin\Debug\net8.0\E1115beecrowd.dll
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\bin\Debug\net8.0\E1115beecrowd.pdb
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\E1115beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\E1115beecrowd.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\E1115beecrowd.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\E1115beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\E1115beecrowd.dll
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\refint\E1115beecrowd.dll
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\E1115beecrowd.pdb
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\E1115beecrowd.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Desktop\E1115beecrowd\E1115beecrowd\obj\Debug\net8.0\ref\E1115beecrowd.dll
