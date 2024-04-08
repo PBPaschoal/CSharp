@@ -1,0 +1,24 @@
+Estrutura repetitiva "para"
+É uma estrutura de controle que repete um bloco de comandos para um certo intervalo de valores.
+
+Quando usar: quando se sabe previamente a quantidade de repetições, ou o intervalo de valores.
+
+Por exemplo:
+Fazer um programa que lê um valor inteiro N e depois N números inteiros.
+Ao final, mostra a soma dos N números lidos.
+Entrada				Saída
+3				11
+5
+2
+4
+
+Sintaxe / regra
+
+for ( inicio ; condição ; incremento ) {
+	comando 1
+	comando 2
+}
+
+início: Executa somente na primeira vez
+condição: V: executa e volta | F: pula fora
+incremento: Executa toda vez depois de voltar

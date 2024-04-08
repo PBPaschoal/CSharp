@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfo.cs
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\bin\Debug\net8.0\exercicio.exe
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\bin\Debug\net8.0\exercicio.deps.json
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\bin\Debug\net8.0\exercicio.runtimeconfig.json
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\bin\Debug\net8.0\exercicio.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\bin\Debug\net8.0\exercicio.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\exercicio.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\refint\exercicio.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\exercicio.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\exercicio.genruntimeconfig.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\Aula 46 - Estrutura repetitiva para\exercicio\exercicio\obj\Debug\net8.0\ref\exercicio.dll

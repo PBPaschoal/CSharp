@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\bin\Debug\net8.0\E1154beecrowd.exe
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\bin\Debug\net8.0\E1154beecrowd.deps.json
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\bin\Debug\net8.0\E1154beecrowd.runtimeconfig.json
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\bin\Debug\net8.0\E1154beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\bin\Debug\net8.0\E1154beecrowd.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\E1154beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\E1154beecrowd.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\E1154beecrowd.AssemblyInfo.cs
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\E1154beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\E1154beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\refint\E1154beecrowd.dll
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\E1154beecrowd.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\E1154beecrowd.genruntimeconfig.cache
+C:\Users\professor\Documents\Visual Studio 2022\Seção 5 - Estruturas repetitivas\E1154beecrowd\E1154beecrowd\obj\Debug\net8.0\ref\E1154beecrowd.dll
