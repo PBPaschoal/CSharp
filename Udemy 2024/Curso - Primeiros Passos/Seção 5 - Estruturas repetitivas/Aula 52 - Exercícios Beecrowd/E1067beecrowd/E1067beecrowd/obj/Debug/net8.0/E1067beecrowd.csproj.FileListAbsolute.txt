@@ -1,0 +1,14 @@
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\bin\Debug\net8.0\E1067beecrowd.exe
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\bin\Debug\net8.0\E1067beecrowd.deps.json
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\bin\Debug\net8.0\E1067beecrowd.runtimeconfig.json
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\bin\Debug\net8.0\E1067beecrowd.dll
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\bin\Debug\net8.0\E1067beecrowd.pdb
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\E1067beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\E1067beecrowd.AssemblyInfoInputs.cache
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\E1067beecrowd.AssemblyInfo.cs
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\E1067beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\E1067beecrowd.dll
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\refint\E1067beecrowd.dll
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\E1067beecrowd.pdb
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\E1067beecrowd.genruntimeconfig.cache
+C:\Users\paulo.bruno\Downloads\Aula 52 - Exercícios Beecrowd\E1067beecrowd\E1067beecrowd\obj\Debug\net8.0\ref\E1067beecrowd.dll

@@ -1,0 +1,44 @@
+Exercícios propostos PARTE 4 - problemas com estrutura para
+EXERCÍCIOS PROPOSTOS - PARTE 4
+
+PROBLEMAS DO URI ONLINE JUDGE COM ESTRUTURA PARA
+
+Caros estudantes, com base no que aprendemos sobre estrutura para, favor fazer pelo menos oito dos exercícios do URI Online Judge a seguir:
+
+1067 - fazendo
+1071
+1072
+1073
+1074
+1075
+1079
+1080
+1094
+1096
+1097
+1116
+1132
+1133
+1142
+1143
+1144
+1151
+1153
+1155
+1156
+1157
+Os exercícios a seguir possuem uma dificuldade um pouco maior. Fica então como desafio para você tentar resolver pelo menos quatro deles:
+
+1099
+1101
+1145
+1149
+1150
+1158
+1160
+1165
+Qualquer dúvida estou à disposição na área de perguntas. 
+
+Um grande abraço e bons estudos!
+
+Nelio
