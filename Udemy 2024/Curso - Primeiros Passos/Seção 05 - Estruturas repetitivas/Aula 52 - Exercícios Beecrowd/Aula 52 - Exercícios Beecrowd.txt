@@ -5,8 +5,8 @@ PROBLEMAS DO URI ONLINE JUDGE COM ESTRUTURA PARA
 
 Caros estudantes, com base no que aprendemos sobre estrutura para, favor fazer pelo menos oito dos exercícios do URI Online Judge a seguir:
 
-1067 - fazendo
-1071
+1067 - Feito
+1071 - Feito
 1072
 1073
 1074
