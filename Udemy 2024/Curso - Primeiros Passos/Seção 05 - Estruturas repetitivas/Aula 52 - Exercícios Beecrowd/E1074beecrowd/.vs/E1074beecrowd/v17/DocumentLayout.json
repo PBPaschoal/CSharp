@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo.bruno\\Downloads\\Aula 52 - Exerc\u00EDcios Beecrowd\\E1074beecrowd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ECF02B-8AA6-4C82-9647-8B8AF30ED348}|E1074beecrowd\\E1074beecrowd.csproj|c:\\users\\paulo.bruno\\downloads\\aula 52 - exerc\u00EDcios beecrowd\\e1074beecrowd\\e1074beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ECF02B-8AA6-4C82-9647-8B8AF30ED348}|E1074beecrowd\\E1074beecrowd.csproj|solutionrelative:e1074beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.bruno\\Downloads\\Aula 52 - Exerc\u00EDcios Beecrowd\\E1074beecrowd\\E1074beecrowd\\Program.cs",
+              "RelativeDocumentMoniker": "E1074beecrowd\\Program.cs",
+              "ToolTip": "C:\\Users\\paulo.bruno\\Downloads\\Aula 52 - Exerc\u00EDcios Beecrowd\\E1074beecrowd\\E1074beecrowd\\Program.cs",
+              "RelativeToolTip": "E1074beecrowd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:10:04.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
