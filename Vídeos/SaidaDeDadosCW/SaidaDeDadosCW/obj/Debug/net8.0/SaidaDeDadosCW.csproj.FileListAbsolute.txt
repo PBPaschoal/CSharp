@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\bin\Debug\net8.0\SaidaDeDadosCW.exe
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\bin\Debug\net8.0\SaidaDeDadosCW.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\bin\Debug\net8.0\SaidaDeDadosCW.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\bin\Debug\net8.0\SaidaDeDadosCW.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\bin\Debug\net8.0\SaidaDeDadosCW.pdb
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\refint\SaidaDeDadosCW.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.pdb
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\SaidaDeDadosCW.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\SaidaDeDadosCW\SaidaDeDadosCW\obj\Debug\net8.0\ref\SaidaDeDadosCW.dll
