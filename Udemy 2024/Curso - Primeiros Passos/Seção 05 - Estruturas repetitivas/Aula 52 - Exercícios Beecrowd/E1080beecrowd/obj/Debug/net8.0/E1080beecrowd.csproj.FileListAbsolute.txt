@@ -1,0 +1,14 @@
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\bin\Debug\net8.0\E1080beecrowd.exe
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\bin\Debug\net8.0\E1080beecrowd.deps.json
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\bin\Debug\net8.0\E1080beecrowd.runtimeconfig.json
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\bin\Debug\net8.0\E1080beecrowd.dll
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\bin\Debug\net8.0\E1080beecrowd.pdb
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\E1080beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\E1080beecrowd.AssemblyInfoInputs.cache
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\E1080beecrowd.AssemblyInfo.cs
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\E1080beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\E1080beecrowd.dll
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\refint\E1080beecrowd.dll
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\E1080beecrowd.pdb
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\E1080beecrowd.genruntimeconfig.cache
+C:\Users\paulo.bruno\Downloads\E1080beecrowd\E1080beecrowd\obj\Debug\net8.0\ref\E1080beecrowd.dll
