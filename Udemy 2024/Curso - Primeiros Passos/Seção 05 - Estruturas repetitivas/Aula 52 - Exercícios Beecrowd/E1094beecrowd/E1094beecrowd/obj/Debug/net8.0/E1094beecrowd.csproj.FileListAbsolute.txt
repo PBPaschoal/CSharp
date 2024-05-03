@@ -1,0 +1,14 @@
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\bin\Debug\net8.0\E1094beecrowd.exe
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\bin\Debug\net8.0\E1094beecrowd.deps.json
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\bin\Debug\net8.0\E1094beecrowd.runtimeconfig.json
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\bin\Debug\net8.0\E1094beecrowd.dll
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\bin\Debug\net8.0\E1094beecrowd.pdb
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\E1094beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\E1094beecrowd.AssemblyInfoInputs.cache
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\E1094beecrowd.AssemblyInfo.cs
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\E1094beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\E1094beecrowd.dll
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\refint\E1094beecrowd.dll
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\E1094beecrowd.pdb
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\E1094beecrowd.genruntimeconfig.cache
+C:\Users\paulo.bruno\Downloads\E1094beecrowd\E1094beecrowd\obj\Debug\net8.0\ref\E1094beecrowd.dll
