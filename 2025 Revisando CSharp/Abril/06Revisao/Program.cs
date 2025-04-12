@@ -66,7 +66,52 @@ namespace Program {
                 Console.Write(contagem-- + ", ");
             }
 
+            Console.WriteLine("");
+            Console.WriteLine("Vou chamar meu cachorro! Billy!!!");
+            MeuCachorro();
+            nomeGato("Kabeça!");
+            int resultado = idadeFutura(idade, 30);
+            Console.WriteLine("Daqui a 30 anos, você terá " + resultado + " de idade.");
 
+            Console.WriteLine("E agora, números aleatorios:");
+            int[] numeros = new int[3];
+
+            numeros[0] = 100;
+            numeros[1] = 200;
+            numeros[2] = 500;
+
+            for (int i = 0; i < numeros.Length; i++) {
+                Console.WriteLine(i + ": " + numeros[i]);
+            }
+
+            string[] names = { "Belinha", "Fred", "Jenna" };
+
+            foreach (string name in names) {
+                Console.WriteLine("Descanse em paz: " + name);
+            }
+
+            static void MeuCachorro() {
+                Console.WriteLine("Billy: - Au! Au!");
+            }
+
+            List<string> meusGatos = new List<string>();
+            meusGatos.Add("Kabeça");
+            meusGatos.Add("Lola");
+            meusGatos.Add("Pepê Antonio");
+            meusGatos.Add("Pandora");
+            meusGatos.Add("Simon");
+
+            foreach (string gatos in meusGatos){
+                Console.WriteLine("Gato(a): " + gatos);
+            }
+
+            static void nomeGato(string nomeGato) { 
+                Console.WriteLine("Meu gato se chama " + nomeGato + "!");
+            }
+
+            static int idadeFutura(int idade, int tempo){
+                return idade + tempo;
+            }
         }
     }
 }
