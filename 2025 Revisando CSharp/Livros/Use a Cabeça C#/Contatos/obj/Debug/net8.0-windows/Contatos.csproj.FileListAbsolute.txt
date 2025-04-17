@@ -1,0 +1,17 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\bin\Debug\net8.0-windows\Contatos.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\bin\Debug\net8.0-windows\Contatos.deps.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\bin\Debug\net8.0-windows\Contatos.runtimeconfig.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\bin\Debug\net8.0-windows\Contatos.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\bin\Debug\net8.0-windows\Contatos.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.Form1.resources
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.csproj.GenerateResource.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.AssemblyInfoInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.AssemblyInfo.cs
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.sourcelink.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\refint\Contatos.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\Contatos.genruntimeconfig.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos\obj\Debug\net8.0-windows\ref\Contatos.dll
