@@ -1,0 +1,10 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\bin\Debug\Contatos.exe.config
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\bin\Debug\Contatos.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\bin\Debug\Contatos.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.csproj.AssemblyReference.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.Form1.resources
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.csproj.GenerateResource.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.pdb
