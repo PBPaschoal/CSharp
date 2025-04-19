@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5298F74A-FAD9-4DAB-A0C5-FF02AA37F105}|Contatos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5298F74A-FAD9-4DAB-A0C5-FF02AA37F105}|Contatos.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\contatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5298F74A-FAD9-4DAB-A0C5-FF02AA37F105}|Contatos.csproj|D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Contatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5298F74A-FAD9-4DAB-A0C5-FF02AA37F105}|Contatos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -46,8 +46,7 @@
               "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Contatos\\Form1.resx",
               "RelativeToolTip": "Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-17T20:19:58.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T20:19:58.935Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Contatos\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T20:04:06.688Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-04-17T20:04:06.688Z"
             }
           ]
         }
