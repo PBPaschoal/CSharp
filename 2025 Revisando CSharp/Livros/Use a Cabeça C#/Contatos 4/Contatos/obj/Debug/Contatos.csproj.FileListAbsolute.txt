@@ -8,3 +8,9 @@ D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#
 D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
 D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.exe
 D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\bin\Debug\ContactDB.mdf
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\bin\Debug\ContactDB_log.ldf
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\bin\Debug\Contatos.exe.manifest
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\bin\Debug\Contatos.application
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.exe.manifest
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4\Contatos\obj\Debug\Contatos.application
