@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace ProgramApp
 {
     internal static class Program
     {
@@ -12,7 +12,7 @@ namespace WindowsFormsApp1
         /// Ponto de entrada principal para o aplicativo.
         /// </summary>
         [STAThread]
-        static void NotMain()
+        static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

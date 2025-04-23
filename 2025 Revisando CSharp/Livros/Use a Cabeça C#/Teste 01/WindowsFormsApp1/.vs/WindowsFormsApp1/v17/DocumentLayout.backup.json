@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\teste 01\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\teste 01\\windowsformsapp1\\anotherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|solutionrelative:anotherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\teste 01\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E38EAA-BF91-4BF1-B7EA-F3647C497754}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AnotherClass.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\AnotherClass.cs",
+              "RelativeDocumentMoniker": "AnotherClass.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\AnotherClass.cs",
+              "RelativeToolTip": "AnotherClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:50:00.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:31:25.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:21:14.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:18:15.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 01\\WindowsFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T01:17:46.073Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-21T01:17:46.073Z"
             }
           ]
         }

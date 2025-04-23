@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\teste 02\\exemplos_variaveis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\teste 02\\exemplos_variaveis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\teste 02\\exemplos_variaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\livros\\use a cabe\u00E7a c#\\teste 02\\exemplos_variaveis\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD236598-B644-4129-9E23-26B4C738DD31}|exemplos_variaveis.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:19:58.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:19:03.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:18:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Livros\\Use a Cabe\u00E7a C#\\Teste 02\\exemplos_variaveis\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:18:40.379Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
