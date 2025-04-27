@@ -1,0 +1,16 @@
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\bin\Debug\Contatos.exe.config
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\bin\Debug\Contatos.exe
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\bin\Debug\Contatos.pdb
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.csproj.AssemblyReference.cache
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.Form1.resources
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.Properties.Resources.resources
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.csproj.GenerateResource.cache
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.exe
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.pdb
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\bin\Debug\ContactDB.mdf
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\bin\Debug\ContactDB_log.ldf
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\bin\Debug\Contatos.exe.manifest
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\bin\Debug\Contatos.application
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.exe.manifest
+D:\PBPaschoal\Programação\CSharp\Vídeos\Contatos\Contatos\obj\Debug\Contatos.application
