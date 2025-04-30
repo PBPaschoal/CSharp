@@ -3,12 +3,16 @@ Estudos em C#
 # Curso - Udemy
 C# primeiros passos: Lógica de Programação e Algoritmos.
 
-## OBSERVAÇÃO 
+- OBSERVAÇÃO 
+- Curso concluído em Agosto 2020.
 
-Curso concluído em Agosto 2020.
-
-Revisando o curso: Inicializando em 04/2025.
-Também revisando com projetos por conta propria, aulas do ChatGPT e com o Livro Use a Cabeça! C# (segunda edição).
+#### Revisando 2025:
+Curso Udemy C# Primeiros Passos: Inicializando em 04/2025.
+Também revisando com projetos por conta propria.
+Aulas do ChatGPT.
+Com o Livro Use a Cabeça! C# (segunda edição).
+Com exercícios e desafios no beecrowd.
+Com documentação C#
 
 ---------------------------
 
