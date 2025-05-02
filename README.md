@@ -8,10 +8,13 @@ C# primeiros passos: Lógica de Programação e Algoritmos.
 
 #### Revisando 2025:
 Curso Udemy [C# Primeiros Passos:](https://github.com/PBPaschoal/CSharp/tree/main/2025%20Revisando%20CSharp/Udemy%202025) Inicializando em 04/2025.
-Também revisando com projetos por conta propria.
+
 Aulas do [ChatGPT](https://github.com/PBPaschoal/CSharp/tree/main/2025%20Revisando%20CSharp/Estudando%20pelo%20ChatGPT)
+
 Com o [Livro Use a Cabeça! C# (segunda edição)](https://github.com/PBPaschoal/CSharp/tree/main/2025%20Revisando%20CSharp/Livros/Use%20a%20Cabe%C3%A7a%20C%23)
+
 Com exercícios e desafios no [beecrowd:](https://github.com/PBPaschoal/CSharp/tree/main/2025%20Revisando%20CSharp/Beecrowd)
+
 Com a documentação da linguagem [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 ---------------------------
