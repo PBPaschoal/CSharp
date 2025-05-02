@@ -11,7 +11,7 @@ namespace Program {
             int hoursWorkedEmployee = int.Parse(Console.ReadLine()); // Número de horas trabalhadas pelo funcionario
             double hourlyRateEmployee = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); // Salário por hora
 
-            double wageEmployee = (double)hoursWorkedEmployee * hourlyRateEmployee; 
+            double wageEmployee = hoursWorkedEmployee * hourlyRateEmployee; 
             // Calculando valor por hora pela hora trabalhada para saber o salario total do funcionario
 
             Console.WriteLine("NUMBER = " + idEmployee);
