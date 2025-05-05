@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\bin\Debug\net8.0\E1004.exe
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\bin\Debug\net8.0\E1004.deps.json
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\bin\Debug\net8.0\E1004.runtimeconfig.json
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\bin\Debug\net8.0\E1004.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\bin\Debug\net8.0\E1004.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\E1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\E1004.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\E1004.AssemblyInfo.cs
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\E1004.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\E1004.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\refint\E1004.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\E1004.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\E1004.genruntimeconfig.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1004\E1004\obj\Debug\net8.0\ref\E1004.dll

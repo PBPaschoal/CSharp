@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Abril\\03estruturaDeRepeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F41B4A-B61A-435E-9D7C-565263626223}|03estruturaDeRepeticao.csproj|d:\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2025 revisando csharp\\abril\\03estruturaderepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F41B4A-B61A-435E-9D7C-565263626223}|03estruturaDeRepeticao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Abril\\03estruturaDeRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2025 Revisando CSharp\\Abril\\03estruturaDeRepeticao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:00:16.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

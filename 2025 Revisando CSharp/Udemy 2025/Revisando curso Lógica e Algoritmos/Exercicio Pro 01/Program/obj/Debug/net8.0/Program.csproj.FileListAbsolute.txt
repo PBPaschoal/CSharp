@@ -1,0 +1,15 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\bin\Debug\net8.0\Program.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\bin\Debug\net8.0\Program.deps.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\bin\Debug\net8.0\Program.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\bin\Debug\net8.0\Program.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.sourcelink.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\refint\Program.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Revisando curso Lógica e Algoritmos\Exercicio Pro 01\Program\obj\Debug\net8.0\ref\Program.dll

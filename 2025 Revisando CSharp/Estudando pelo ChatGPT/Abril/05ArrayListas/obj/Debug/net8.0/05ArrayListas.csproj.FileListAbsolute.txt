@@ -1,0 +1,15 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\bin\Debug\net8.0\05ArrayListas.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\bin\Debug\net8.0\05ArrayListas.deps.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\bin\Debug\net8.0\05ArrayListas.runtimeconfig.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\bin\Debug\net8.0\05ArrayListas.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\bin\Debug\net8.0\05ArrayListas.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.AssemblyInfoInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.AssemblyInfo.cs
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.sourcelink.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\refint\05ArrayListas.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\05ArrayListas.genruntimeconfig.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\05ArrayListas\obj\Debug\net8.0\ref\05ArrayListas.dll

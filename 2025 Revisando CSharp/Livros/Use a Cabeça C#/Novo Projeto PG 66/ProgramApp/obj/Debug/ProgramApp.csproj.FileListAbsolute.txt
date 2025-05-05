@@ -1,0 +1,10 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\bin\Debug\ProgramApp.exe.config
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\bin\Debug\ProgramApp.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\bin\Debug\ProgramApp.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\obj\Debug\ProgramApp.csproj.AssemblyReference.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\obj\Debug\ProgramApp.Form1.resources
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\obj\Debug\ProgramApp.Properties.Resources.resources
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\obj\Debug\ProgramApp.csproj.GenerateResource.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\obj\Debug\ProgramApp.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\obj\Debug\ProgramApp.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Novo Projeto PG 66\ProgramApp\obj\Debug\ProgramApp.pdb

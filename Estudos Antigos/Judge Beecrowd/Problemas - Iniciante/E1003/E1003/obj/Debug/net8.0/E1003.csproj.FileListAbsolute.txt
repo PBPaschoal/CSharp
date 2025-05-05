@@ -1,0 +1,14 @@
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\bin\Debug\net8.0\E1003.exe
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\bin\Debug\net8.0\E1003.deps.json
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\bin\Debug\net8.0\E1003.runtimeconfig.json
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\bin\Debug\net8.0\E1003.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\bin\Debug\net8.0\E1003.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\E1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\E1003.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\E1003.AssemblyInfo.cs
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\E1003.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\E1003.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\refint\E1003.dll
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\E1003.pdb
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\E1003.genruntimeconfig.cache
+C:\Users\professor\Documents\Visual Studio 2022\Judge Beecrowd\Problemas - Iniciante\E1003\E1003\obj\Debug\net8.0\ref\E1003.dll

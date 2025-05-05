@@ -1,0 +1,10 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\bin\Debug\exemplos_variaveis.exe.config
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\bin\Debug\exemplos_variaveis.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\bin\Debug\exemplos_variaveis.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\obj\Debug\exemplos_variaveis.csproj.AssemblyReference.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\obj\Debug\exemplos_variaveis.Form1.resources
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\obj\Debug\exemplos_variaveis.Properties.Resources.resources
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\obj\Debug\exemplos_variaveis.csproj.GenerateResource.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\obj\Debug\exemplos_variaveis.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\obj\Debug\exemplos_variaveis.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Teste 02\exemplos_variaveis\obj\Debug\exemplos_variaveis.pdb

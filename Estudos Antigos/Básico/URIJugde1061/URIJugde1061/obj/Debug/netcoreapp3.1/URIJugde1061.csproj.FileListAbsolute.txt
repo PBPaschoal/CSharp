@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\bin\Debug\netcoreapp3.1\URIJugde1061.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\bin\Debug\netcoreapp3.1\URIJugde1061.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\bin\Debug\netcoreapp3.1\URIJugde1061.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\bin\Debug\netcoreapp3.1\URIJugde1061.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\bin\Debug\netcoreapp3.1\URIJugde1061.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\bin\Debug\netcoreapp3.1\URIJugde1061.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\obj\Debug\netcoreapp3.1\URIJugde1061.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\obj\Debug\netcoreapp3.1\URIJugde1061.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\obj\Debug\netcoreapp3.1\URIJugde1061.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\obj\Debug\netcoreapp3.1\URIJugde1061.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\obj\Debug\netcoreapp3.1\URIJugde1061.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\obj\Debug\netcoreapp3.1\URIJugde1061.genruntimeconfig.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\URIJugde1061\URIJugde1061\obj\Debug\netcoreapp3.1\URIJugde1061.csprojAssemblyReference.cache

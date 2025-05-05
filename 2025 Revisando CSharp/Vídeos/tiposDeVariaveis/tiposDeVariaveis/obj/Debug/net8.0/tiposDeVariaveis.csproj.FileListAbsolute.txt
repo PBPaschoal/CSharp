@@ -1,0 +1,15 @@
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.exe
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.deps.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.pdb
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.sourcelink.json
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\refint\tiposDeVariaveis.dll
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.pdb
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\PBPASCHOAL\Programação - Desenvolvimento de Software\Back-end\C#\Vídeos\tiposDeVariaveis\tiposDeVariaveis\obj\Debug\net8.0\ref\tiposDeVariaveis.dll

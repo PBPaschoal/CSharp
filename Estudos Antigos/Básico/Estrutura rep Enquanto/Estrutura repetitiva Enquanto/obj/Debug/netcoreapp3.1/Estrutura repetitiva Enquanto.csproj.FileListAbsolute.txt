@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.genruntimeconfig.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Estrutura repetitiva Enquanto\Estrutura repetitiva Enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva Enquanto.csprojAssemblyReference.cache

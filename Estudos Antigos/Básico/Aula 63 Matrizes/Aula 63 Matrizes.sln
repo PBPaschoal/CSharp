@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 63 Matrizes", "Aula 63 Matrizes\Aula 63 Matrizes.csproj", "{9D7B8387-CC2E-49EA-A069-0141B6FEE399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7B8387-CC2E-49EA-A069-0141B6FEE399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7B8387-CC2E-49EA-A069-0141B6FEE399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7B8387-CC2E-49EA-A069-0141B6FEE399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7B8387-CC2E-49EA-A069-0141B6FEE399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D1CD4F-5B54-465C-A706-F87C263C4FBB}
+	EndGlobalSection
+EndGlobal

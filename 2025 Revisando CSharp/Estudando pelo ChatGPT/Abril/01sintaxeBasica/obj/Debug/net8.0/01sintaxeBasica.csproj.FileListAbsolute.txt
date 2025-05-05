@@ -1,0 +1,15 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\bin\Debug\net8.0\01sintaxeBasica.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\bin\Debug\net8.0\01sintaxeBasica.deps.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\bin\Debug\net8.0\01sintaxeBasica.runtimeconfig.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\bin\Debug\net8.0\01sintaxeBasica.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\bin\Debug\net8.0\01sintaxeBasica.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.AssemblyInfoInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.AssemblyInfo.cs
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.sourcelink.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\refint\01sintaxeBasica.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\01sintaxeBasica.genruntimeconfig.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\01sintaxeBasica\obj\Debug\net8.0\ref\01sintaxeBasica.dll

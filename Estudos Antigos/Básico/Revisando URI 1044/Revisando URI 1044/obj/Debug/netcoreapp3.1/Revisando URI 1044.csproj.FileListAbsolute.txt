@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\bin\Debug\netcoreapp3.1\Revisando URI 1044.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\bin\Debug\netcoreapp3.1\Revisando URI 1044.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\bin\Debug\netcoreapp3.1\Revisando URI 1044.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\bin\Debug\netcoreapp3.1\Revisando URI 1044.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\bin\Debug\netcoreapp3.1\Revisando URI 1044.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\bin\Debug\netcoreapp3.1\Revisando URI 1044.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\obj\Debug\netcoreapp3.1\Revisando URI 1044.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\obj\Debug\netcoreapp3.1\Revisando URI 1044.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\obj\Debug\netcoreapp3.1\Revisando URI 1044.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\obj\Debug\netcoreapp3.1\Revisando URI 1044.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\obj\Debug\netcoreapp3.1\Revisando URI 1044.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\obj\Debug\netcoreapp3.1\Revisando URI 1044.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Revisando URI 1044\Revisando URI 1044\obj\Debug\netcoreapp3.1\Revisando URI 1044.genruntimeconfig.cache

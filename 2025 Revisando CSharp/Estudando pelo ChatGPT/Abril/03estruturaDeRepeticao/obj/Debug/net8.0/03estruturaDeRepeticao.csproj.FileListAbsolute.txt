@@ -1,0 +1,15 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\bin\Debug\net8.0\03estruturaDeRepeticao.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\bin\Debug\net8.0\03estruturaDeRepeticao.deps.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\bin\Debug\net8.0\03estruturaDeRepeticao.runtimeconfig.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\bin\Debug\net8.0\03estruturaDeRepeticao.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\bin\Debug\net8.0\03estruturaDeRepeticao.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.AssemblyInfoInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.AssemblyInfo.cs
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.sourcelink.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\refint\03estruturaDeRepeticao.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\03estruturaDeRepeticao.genruntimeconfig.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\03estruturaDeRepeticao\obj\Debug\net8.0\ref\03estruturaDeRepeticao.dll

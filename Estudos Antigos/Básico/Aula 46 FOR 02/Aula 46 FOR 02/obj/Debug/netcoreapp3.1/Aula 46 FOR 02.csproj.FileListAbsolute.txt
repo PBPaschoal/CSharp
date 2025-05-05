@@ -1,0 +1,12 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\bin\Debug\netcoreapp3.1\Aula 46 FOR 02.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\bin\Debug\netcoreapp3.1\Aula 46 FOR 02.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\bin\Debug\netcoreapp3.1\Aula 46 FOR 02.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\bin\Debug\netcoreapp3.1\Aula 46 FOR 02.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\bin\Debug\netcoreapp3.1\Aula 46 FOR 02.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\bin\Debug\netcoreapp3.1\Aula 46 FOR 02.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\obj\Debug\netcoreapp3.1\Aula 46 FOR 02.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\obj\Debug\netcoreapp3.1\Aula 46 FOR 02.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\obj\Debug\netcoreapp3.1\Aula 46 FOR 02.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\obj\Debug\netcoreapp3.1\Aula 46 FOR 02.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\obj\Debug\netcoreapp3.1\Aula 46 FOR 02.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 46 FOR 02\Aula 46 FOR 02\obj\Debug\netcoreapp3.1\Aula 46 FOR 02.genruntimeconfig.cache

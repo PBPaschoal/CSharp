@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "beecrowd1012/1.0.0": {
+        "runtime": {
+          "beecrowd1012.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "beecrowd1012/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

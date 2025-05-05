@@ -1,0 +1,15 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\bin\Debug\net8.0\02comparacaoLogicos.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\bin\Debug\net8.0\02comparacaoLogicos.deps.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\bin\Debug\net8.0\02comparacaoLogicos.runtimeconfig.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\bin\Debug\net8.0\02comparacaoLogicos.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\bin\Debug\net8.0\02comparacaoLogicos.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.AssemblyInfoInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.AssemblyInfo.cs
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.sourcelink.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\refint\02comparacaoLogicos.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\02comparacaoLogicos.genruntimeconfig.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\02comparacaoLogicos\obj\Debug\net8.0\ref\02comparacaoLogicos.dll

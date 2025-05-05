@@ -1,0 +1,15 @@
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\bin\Debug\net8.0\06Revisao.exe
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\bin\Debug\net8.0\06Revisao.deps.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\bin\Debug\net8.0\06Revisao.runtimeconfig.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\bin\Debug\net8.0\06Revisao.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\bin\Debug\net8.0\06Revisao.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.AssemblyInfoInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.AssemblyInfo.cs
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.sourcelink.json
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\refint\06Revisao.dll
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.pdb
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\06Revisao.genruntimeconfig.cache
+D:\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Abril\06Revisao\obj\Debug\net8.0\ref\06Revisao.dll

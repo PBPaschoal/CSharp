@@ -1,0 +1,43 @@
+C:\Users\professor\Documents\CSharp\Program\Program\bin\Debug\net8.0\Program.exe
+C:\Users\professor\Documents\CSharp\Program\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\professor\Documents\CSharp\Program\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\professor\Documents\CSharp\Program\Program\bin\Debug\net8.0\Program.dll
+C:\Users\professor\Documents\CSharp\Program\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\Program.dll
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\professor\Documents\CSharp\Program\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.exe
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.exe
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.dll
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.dll
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\professor\Downloads\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\Bruno Paschoal\Documents\C#\ChatGPT\Exercicios\Praticando I\Program\Program\obj\Debug\net8.0\Program.sourcelink.json

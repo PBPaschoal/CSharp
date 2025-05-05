@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio Resolvido 01 Aula 20/1.0.0": {
+        "runtime": {
+          "Exercicio Resolvido 01 Aula 20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio Resolvido 01 Aula 20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

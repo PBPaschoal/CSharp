@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\C#\\ChatGPT\\Exercicios\\Praticando II\\Exercicio014\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8769BD0-42AA-493F-A752-2A4E2715DEBF}|Exercicio014\\Exercicio014.csproj|c:\\users\\bruno paschoal\\documents\\c#\\chatgpt\\exercicios\\praticando ii\\exercicio014\\exercicio014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8769BD0-42AA-493F-A752-2A4E2715DEBF}|Exercicio014\\Exercicio014.csproj|solutionrelative:exercicio014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\C#\\ChatGPT\\Exercicios\\Praticando II\\Exercicio014\\Exercicio014\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio014\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\C#\\ChatGPT\\Exercicios\\Praticando II\\Exercicio014\\Exercicio014\\Program.cs",
+              "RelativeToolTip": "Exercicio014\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:01:15.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
