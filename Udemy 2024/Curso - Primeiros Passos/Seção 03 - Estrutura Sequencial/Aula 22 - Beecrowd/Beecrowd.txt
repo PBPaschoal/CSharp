@@ -1,6 +1,0 @@
-URI Online Judge (Atualmente se chama Beecrowd)
-
-www.urionlinejudge.com.br/judge/en/login
-
-Link atual:
-https://judge.beecrowd.com/pt
