@@ -1,0 +1,17 @@
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\bin\Debug\Contatos 4 - Revisando.exe.config
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\bin\Debug\Contatos 4 - Revisando.exe
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\bin\Debug\Contatos 4 - Revisando.pdb
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.csproj.AssemblyReference.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos_4___Revisando.Form1.resources
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos_4___Revisando.Properties.Resources.resources
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.csproj.GenerateResource.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.exe
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.pdb
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\bin\Debug\ContactDB.mdf
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\bin\Debug\ContactDB_log.ldf
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.exe.config
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\bin\Debug\Contatos 4 - Revisando.exe.manifest
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\bin\Debug\Contatos 4 - Revisando.application
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.exe.manifest
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Livros\Use a Cabeça C#\Contatos 4 - Revisando\obj\Debug\Contatos 4 - Revisando.application
