@@ -1,0 +1,15 @@
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\bin\Debug\net8.0\Program.exe
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\bin\Debug\net8.0\Program.dll
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.sourcelink.json
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.dll
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Udemy 2025\Revisando curso Lógica e Algoritmos\Aula 20 - Revisando\Program\obj\Debug\net8.0\ref\Program.dll
