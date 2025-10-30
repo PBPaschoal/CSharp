@@ -1,0 +1,15 @@
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\bin\Debug\net8.0\1001 - Revisando.exe
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\bin\Debug\net8.0\1001 - Revisando.deps.json
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\bin\Debug\net8.0\1001 - Revisando.runtimeconfig.json
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\bin\Debug\net8.0\1001 - Revisando.dll
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\bin\Debug\net8.0\1001 - Revisando.pdb
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.AssemblyInfo.cs
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.sourcelink.json
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.dll
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\refint\1001 - Revisando.dll
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.pdb
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\1001 - Revisando.genruntimeconfig.cache
+C:\Users\paulo\Documents\PBPaschoal\Programação\CSharp\2025 Revisando CSharp\Beecrowd\1001 - Revisando\obj\Debug\net8.0\ref\1001 - Revisando.dll
