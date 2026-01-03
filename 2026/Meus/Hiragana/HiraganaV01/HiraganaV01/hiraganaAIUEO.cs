@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace HiraganaV01 {
-    internal class hiragana {
+    internal class hiraganaAIUEO {
         public void EstudandoHiragana() {
             Console.WriteLine("''''''''''''''''''''''111111111111111111111111111111''''");
             Console.WriteLine("BEM-VINDO(A) AO PROGRAMA APRENDENDO HIRAGANA COM CSHARP!");
@@ -56,6 +56,7 @@ namespace HiraganaV01 {
             int choose = int.Parse(Console.ReadLine());
             if (choose == 1) {
                 Console.WriteLine(">> ACERTOU!\n");
+                hiraganaU();
             } else {
                 erroResposta();
                 choose = int.Parse(Console.ReadLine());
@@ -63,8 +64,39 @@ namespace HiraganaV01 {
                     hiraganaI();
                 }
             }
-            Console.WriteLine("Terminou até agora...");
         }
+
+        public void hiraganaU() {
+            Console.WriteLine("\n4) う em hiragana significa ka?\n1 - VERDADEIRO\n2 - FALSO: Significa sa\n3 - FALSO: Significa u\n4 - FALSO: Significa e");
+            Console.Write(">> ");
+            int choose = int.Parse(Console.ReadLine());
+            if (choose == 3) {
+                Console.WriteLine(">> ACERTOU!\n");
+                hiraganaE();
+            } else {
+                erroResposta();
+                choose = int.Parse(Console.ReadLine());
+                if (choose == 1) {
+                    hiraganaU();
+                }
+            }
+        }
+        public void hiraganaE() {
+            Console.WriteLine("\n5) e = え em japonês?\n1 - VERDADEIRO\n2 - FALSO: Significa o\n3 - FALSO: Significa a");
+            Console.Write(">> ");
+            int choose = int.Parse(Console.ReadLine());
+            if (choose == 1) {
+                Console.WriteLine(">> ACERTOU!\n");
+            } else {
+                erroResposta();
+                choose = int.Parse(Console.ReadLine());
+                if (choose == 1) {
+                    hiraganaE();
+                }
+            }
+            Console.WriteLine("Vamos para o próximo nível!");
+        }
+
         public void erroResposta() {
             Console.WriteLine(">> VOCÊ ERROU!");
             Console.WriteLine("\nDeseja tentar novamente ou pular para o próximo?");

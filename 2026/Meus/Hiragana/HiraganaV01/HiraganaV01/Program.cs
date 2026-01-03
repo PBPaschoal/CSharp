@@ -13,7 +13,7 @@ namespace HiraganaV01 {
             Console.Write(">> ");
             int startHiragana = int.Parse(Console.ReadLine());
             if (startHiragana == 1) {
-                var obj = new hiragana();
+                var obj = new hiraganaAIUEO();
 
                 obj.EstudandoHiragana();
             } else {
