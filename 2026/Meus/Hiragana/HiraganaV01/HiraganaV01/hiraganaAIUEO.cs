@@ -4,17 +4,20 @@ using System.Text;
 
 namespace HiraganaV01 {
     internal class hiraganaAIUEO {
+
+        private erroOpcoes msgErro = new erroOpcoes();
         public void EstudandoHiragana() {
             Console.WriteLine("''''''''''''''''''''''111111111111111111111111111111''''");
             Console.WriteLine("BEM-VINDO(A) AO PROGRAMA APRENDENDO HIRAGANA COM CSHARP!");
             Console.WriteLine("Desenvolvido por: Paulo Bruno Paschoal");
             Console.WriteLine("\nVamos começar a estudar!");
             Console.WriteLine();
+            Console.WriteLine("NIVEL 1");
             hiraganaA();
         }
         public void hiraganaA() {
-            Console.WriteLine("1) あ significa:");
-            Console.WriteLine("1: あ = a \n2: あ = i \n3: あ = o");
+            Console.WriteLine("01) あ significa:");
+            Console.WriteLine("\n1: あ = a \n2: あ = i \n3: あ = o");
             Console.Write(">> ");
             int meaning = int.Parse(Console.ReadLine());
             if (meaning == 1)
@@ -24,7 +27,7 @@ namespace HiraganaV01 {
             }
             else
             {
-                erroResposta();
+                msgErro.erroResposta();
                 int choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaA();
@@ -34,14 +37,14 @@ namespace HiraganaV01 {
             }
         }
         public void hiraganaO() {
-            Console.WriteLine("\n2) お significa o\n1 - CORRETO\n2 - ERRADO");
+            Console.WriteLine("\n02) お significa o\n1 - CORRETO\n2 - ERRADO");
             Console.Write(">> ");
             int choose = int.Parse(Console.ReadLine());
             if (choose == 1) {
                 Console.WriteLine(">> ACERTOU!\n");
                 hiraganaI();
             } else {
-                erroResposta();
+                msgErro.erroResposta();
                 choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaO();
@@ -51,14 +54,14 @@ namespace HiraganaV01 {
             }
         }
         public void hiraganaI() {
-            Console.WriteLine("\n3) i significa い em Hiragana!\n1 - VERDADEIRO\n2 - FALSO");
+            Console.WriteLine("\n03) i significa い em Hiragana!\n1 - VERDADEIRO\n2 - FALSO");
             Console.Write(">> ");
             int choose = int.Parse(Console.ReadLine());
             if (choose == 1) {
                 Console.WriteLine(">> ACERTOU!\n");
                 hiraganaU();
             } else {
-                erroResposta();
+                msgErro.erroResposta();
                 choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaI();
@@ -67,14 +70,14 @@ namespace HiraganaV01 {
         }
 
         public void hiraganaU() {
-            Console.WriteLine("\n4) う em hiragana significa ka?\n1 - VERDADEIRO\n2 - FALSO: Significa sa\n3 - FALSO: Significa u\n4 - FALSO: Significa e");
+            Console.WriteLine("\n04) う em hiragana significa ka?\n1 - VERDADEIRO\n2 - FALSO: Significa sa\n3 - FALSO: Significa u\n4 - FALSO: Significa e");
             Console.Write(">> ");
             int choose = int.Parse(Console.ReadLine());
             if (choose == 3) {
                 Console.WriteLine(">> ACERTOU!\n");
                 hiraganaE();
             } else {
-                erroResposta();
+                msgErro.erroResposta();
                 choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaU();
@@ -82,26 +85,22 @@ namespace HiraganaV01 {
             }
         }
         public void hiraganaE() {
-            Console.WriteLine("\n5) e = え em japonês?\n1 - VERDADEIRO\n2 - FALSO: Significa o\n3 - FALSO: Significa a");
+            Console.WriteLine("\n05) e = え em japonês?\n1 - VERDADEIRO\n2 - FALSO: Significa o\n3 - FALSO: Significa a");
             Console.Write(">> ");
             int choose = int.Parse(Console.ReadLine());
             if (choose == 1) {
                 Console.WriteLine(">> ACERTOU!\n");
             } else {
-                erroResposta();
+                msgErro.erroResposta();
                 choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaE();
                 }
             }
             Console.WriteLine("Vamos para o próximo nível!");
-        }
+            var obj = new hiraganaK();
 
-        public void erroResposta() {
-            Console.WriteLine(">> VOCÊ ERROU!");
-            Console.WriteLine("\nDeseja tentar novamente ou pular para o próximo?");
-            Console.WriteLine("1 - TENTAR NOVAMENTE \n2 - PULAR PARA O PRÓXIMO.");
-            Console.Write(">> ");
+            obj.hiraganak();
         }
     }
 }
