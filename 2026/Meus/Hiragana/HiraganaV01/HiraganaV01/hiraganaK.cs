@@ -15,11 +15,13 @@ namespace HiraganaV01 {
         public void hiraganak01() {
             Console.WriteLine("06) Os seguintes hiraganas け e き são:");
             Console.WriteLine("\n1 - け = ki e き = ku\n2 - け = ka e き = ki\n3 - け = ke e き = ku\n4 - け = ke e き = ki");
-            Console.WriteLine(">> ");
+            Console.Write(">> ");
             int meaning = int.Parse(Console.ReadLine());
             if (meaning == 4)
             {
                 Console.WriteLine(">> ACERTOU!");
+                Console.WriteLine("AGUARDE...");
+                Thread.Sleep(1500);
             }
             else
             {
@@ -34,6 +36,8 @@ namespace HiraganaV01 {
                     Console.WriteLine("Em desenvolvimento...");
                 }
             }
+            var obj = new FimDeJogo();
+            obj.Fim();
         }
     }
 }
