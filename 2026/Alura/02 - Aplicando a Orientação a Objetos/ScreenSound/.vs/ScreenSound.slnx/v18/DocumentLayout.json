@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\alura\\02 - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\alura\\02 - aplicando a orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Alura\\02 - Aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Musica.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Musica.cs",
-              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Alura\\02 - Aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Musica.cs",
-              "RelativeToolTip": "ScreenSound\\Musica.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvwQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T01:45:27.217Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,7 +28,7 @@
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Alura\\02 - Aplicando a Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-10T01:43:43.085Z",
               "EditorCaption": ""
