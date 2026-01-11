@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace HiraganaV01 {
-    internal class boasVindas {
+    internal class BoasVindas {
         public void inicioProgram() {
             Console.WriteLine(@"
 ██╗░░██╗██╗██████╗░░█████╗░░██████╗░░█████╗░███╗░░██╗░█████╗░
@@ -23,7 +23,7 @@ namespace HiraganaV01 {
             Console.Write(">> ");
             int startHiragana = int.Parse(Console.ReadLine());
             if (startHiragana == 1) {
-                var obj = new hiraganaAIUEO();
+                var obj = new HiraganaAIUEO();
 
                 obj.EstudandoHiragana();
             } else {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace HiraganaV01 {
-    internal class erroOpcoes {
+    internal class ErroOpcoes {
         public void erroResposta() {
             Console.Clear();
             Console.WriteLine(">> 𝑉𝑂𝐶𝐸̂ 𝐸𝑅𝑅𝑂𝑈!");

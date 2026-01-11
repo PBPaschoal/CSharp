@@ -6,9 +6,9 @@ namespace HiraganaV01 {
         static void Main(string[] args) {
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("\n/////////////////////////////////////////////////////////////");
-            var obj = new boasVindas();
+            var obj = new BoasVindas();
             obj.inicioProgram();
-            var hiragana = new boasVindas();
+            var hiragana = new BoasVindas();
             hiragana.inicioHiragana();
         }
     }

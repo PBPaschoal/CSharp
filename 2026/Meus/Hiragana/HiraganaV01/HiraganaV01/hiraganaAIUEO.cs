@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace HiraganaV01 {
-    internal class hiraganaAIUEO {
+    internal class HiraganaAIUEO {
 
-        private erroOpcoes msgErro = new erroOpcoes();
+        private ErroOpcoes msgErro = new ErroOpcoes();
         public void EstudandoHiragana() {
             Console.WriteLine("\nVamos começar a estudar!");
             Console.WriteLine();
@@ -17,20 +17,18 @@ namespace HiraganaV01 {
             Console.WriteLine("\n1: あ = a \n2: あ = i \n3: あ = o");
             Console.Write(">> ");
             int meaning = int.Parse(Console.ReadLine());
-            if (meaning == 1)
-            {
+            if (meaning == 1) {
                 Console.WriteLine(">> ACERTOU!");
                 Console.WriteLine("AGUARDE...");
                 Thread.Sleep(1500);
                 hiraganaO();
-            }
-            else
-            {
+            } else {
                 msgErro.erroResposta();
                 int choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaA();
                 } else {
+                    Console.WriteLine("PULANDO... Vamos para o próximo!");
                     hiraganaO();
                 }
             }
@@ -51,6 +49,7 @@ namespace HiraganaV01 {
                 if (choose == 1) {
                     hiraganaO();
                 } else {
+                    Console.WriteLine("PULANDO... Vamos para o próximo!");
                     hiraganaI();
                 }
             }
@@ -70,6 +69,9 @@ namespace HiraganaV01 {
                 choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaI();
+                } else {
+                    Console.WriteLine("PULANDO... Vamos para o próximo!");
+                    hiraganaU();
                 }
             }
         }
@@ -89,10 +91,14 @@ namespace HiraganaV01 {
                 choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaU();
+                } else {
+                    Console.WriteLine("PULANDO... Vamos para o próximo!");
+                    hiraganaE();
                 }
             }
         }
         public void hiraganaE() {
+            var obj = new HiraganaK();
             Console.Clear();
             Console.WriteLine("\n05) e = え em japonês?\n1 - VERDADEIRO\n2 - FALSO: Significa o\n3 - FALSO: Significa a");
             Console.Write(">> ");
@@ -106,11 +112,11 @@ namespace HiraganaV01 {
                 choose = int.Parse(Console.ReadLine());
                 if (choose == 1) {
                     hiraganaE();
+                } else {
+                    Console.WriteLine("PULANDO... Vamos para o próximo!");
+                    obj.hiraganak();
                 }
-            }
-            Console.WriteLine("Vamos para o próximo nível!");
-            var obj = new hiraganaK();
-
+            }  
             obj.hiraganak();
         }
     }
