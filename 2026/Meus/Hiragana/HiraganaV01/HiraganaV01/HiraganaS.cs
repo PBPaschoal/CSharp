@@ -7,6 +7,7 @@ namespace HiraganaV01 {
 
         private ErroOpcoes msgErro = new ErroOpcoes();
         public void hiraganas() {
+            Console.Clear();
             Console.WriteLine("---------------------");
             Console.WriteLine("NIVEL 3");
             Console.WriteLine();
@@ -29,9 +30,9 @@ namespace HiraganaV01 {
                     //Console.WriteLine("PULANDO... Vamos para o próximo!");
                     Console.WriteLine("Em desenvolvimento...");
                 }
-                var obj = new FimDeJogo();
-                obj.Fim();
             }
+            var obj = new FimDeJogo();
+            obj.Fim(); //Por enquanto
         }
     }
 }

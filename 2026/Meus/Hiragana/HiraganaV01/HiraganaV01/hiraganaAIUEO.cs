@@ -107,6 +107,7 @@ namespace HiraganaV01 {
                 Console.WriteLine(">> ACERTOU!");
                 Console.WriteLine("AGUARDE...");
                 Thread.Sleep(1500);
+                obj.hiraganak();
             } else {
                 msgErro.erroResposta();
                 choose = int.Parse(Console.ReadLine());
@@ -117,7 +118,6 @@ namespace HiraganaV01 {
                     obj.hiraganak();
                 }
             }  
-            obj.hiraganak();
         }
     }
 }

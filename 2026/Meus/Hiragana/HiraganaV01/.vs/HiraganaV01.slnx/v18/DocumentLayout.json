@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\meus\\hiragana\\hiraganav01\\hiraganav01\\hiraganak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|solutionrelative:hiraganav01\\hiraganak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\meus\\hiragana\\hiraganav01\\hiraganav01\\hiraganas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|solutionrelative:hiraganav01\\hiraganas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\meus\\hiragana\\hiraganav01\\hiraganav01\\hiraganaaiueo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|solutionrelative:hiraganav01\\hiraganaaiueo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\meus\\hiragana\\hiraganav01\\hiraganav01\\hiraganak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|solutionrelative:hiraganav01\\hiraganak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\meus\\hiragana\\hiraganav01\\hiraganav01\\fimdejogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|solutionrelative:hiraganav01\\erroopcoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\meus\\hiragana\\hiraganav01\\hiraganav01\\hiraganaaiueo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|solutionrelative:hiraganav01\\hiraganaaiueo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\programa\u00E7\u00E3o\\csharp\\2026\\meus\\hiragana\\hiraganav01\\hiraganav01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E1381E7-E4F3-46F3-866C-6DF92C464CD5}|HiraganaV01\\HiraganaV01.csproj|solutionrelative:hiraganav01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -51,8 +51,7 @@
               "ViewState": "AgIAAAAAAAAANDMzMzPbvwcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T10:28:05.5Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -60,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HiraganaS.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\HiraganaS.cs",
               "RelativeDocumentMoniker": "HiraganaV01\\HiraganaS.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\HiraganaS.cs",
               "RelativeToolTip": "HiraganaV01\\HiraganaS.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T01:33:24.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FimDeJogo.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\FimDeJogo.cs",
               "RelativeDocumentMoniker": "HiraganaV01\\FimDeJogo.cs",
@@ -81,12 +80,11 @@
               "RelativeToolTip": "HiraganaV01\\FimDeJogo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T00:03:53.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T00:03:53.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BoasVindas.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\BoasVindas.cs",
               "RelativeDocumentMoniker": "HiraganaV01\\BoasVindas.cs",
@@ -94,12 +92,11 @@
               "RelativeToolTip": "HiraganaV01\\BoasVindas.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T23:27:54.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T23:27:54.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ErroOpcoes.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\ErroOpcoes.cs",
               "RelativeDocumentMoniker": "HiraganaV01\\ErroOpcoes.cs",
@@ -107,31 +104,30 @@
               "RelativeToolTip": "HiraganaV01\\ErroOpcoes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T22:55:22.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T22:55:22.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HiraganaK.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\HiraganaK.cs",
               "RelativeDocumentMoniker": "HiraganaV01\\HiraganaK.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\HiraganaK.cs",
               "RelativeToolTip": "HiraganaV01\\HiraganaK.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowB0AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T22:35:55.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "HiraganaAIUEO.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\HiraganaAIUEO.cs",
               "RelativeDocumentMoniker": "HiraganaV01\\HiraganaAIUEO.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Programa\u00E7\u00E3o\\CSharp\\2026\\Meus\\Hiragana\\HiraganaV01\\HiraganaV01\\HiraganaAIUEO.cs",
               "RelativeToolTip": "HiraganaV01\\HiraganaAIUEO.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAA9wB4AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwHcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T10:31:26.113Z",
               "EditorCaption": ""
