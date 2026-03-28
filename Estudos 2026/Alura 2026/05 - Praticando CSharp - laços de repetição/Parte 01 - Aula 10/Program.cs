@@ -39,7 +39,6 @@ while (indice < alunos.Count) {
  
 if (encontrado) {
     Console.WriteLine($"Aluno encontrado na posição: {indice}");
-}
-else {
+} else {
     Console.WriteLine("Aluno não está presente na lista");
 }
