@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura 2026\\07 - Orienta\u00E7\u00E3o a objetos com classes\\Aula 10\\Exercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3A7E9A-71E2-461C-91A9-22BED53339E4}|Exercicio\\Exercicio.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura 2026\\07 - orienta\u00E7\u00E3o a objetos com classes\\aula 10\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3A7E9A-71E2-461C-91A9-22BED53339E4}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3A7E9A-71E2-461C-91A9-22BED53339E4}|Exercicio\\Exercicio.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura 2026\\07 - orienta\u00E7\u00E3o a objetos com classes\\aula 10\\exercicio\\exercicio\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3A7E9A-71E2-461C-91A9-22BED53339E4}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura 2026\\07 - Orienta\u00E7\u00E3o a objetos com classes\\Aula 10\\Exercicio\\Exercicio\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura 2026\\07 - Orienta\u00E7\u00E3o a objetos com classes\\Aula 10\\Exercicio\\Exercicio\\Funcionario.cs",
+              "RelativeToolTip": "Exercicio\\Funcionario.cs",
+              "ViewState": "AgIAAAQAAACAmZmZmRkUwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:46:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura 2026\\07 - Orienta\u00E7\u00E3o a objetos com classes\\Aula 10\\Exercicio\\Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura 2026\\07 - Orienta\u00E7\u00E3o a objetos com classes\\Aula 10\\Exercicio\\Exercicio\\Program.cs",
+              "RelativeToolTip": "Exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:44:43.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
