@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 01 - Aula 09\\VideoFlix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4303B85A-A052-48BB-B868-627BE3A88A43}|VideoFlix\\VideoFlix.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 01 - aula 09\\videoflix\\videoflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4303B85A-A052-48BB-B868-627BE3A88A43}|VideoFlix\\VideoFlix.csproj|solutionrelative:videoflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4303B85A-A052-48BB-B868-627BE3A88A43}|VideoFlix\\VideoFlix.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 01 - aula 09\\videoflix\\videoflix\\plataformab\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4303B85A-A052-48BB-B868-627BE3A88A43}|VideoFlix\\VideoFlix.csproj|solutionrelative:videoflix\\plataformab\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4303B85A-A052-48BB-B868-627BE3A88A43}|VideoFlix\\VideoFlix.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 01 - aula 09\\videoflix\\videoflix\\plataformaa\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4303B85A-A052-48BB-B868-627BE3A88A43}|VideoFlix\\VideoFlix.csproj|solutionrelative:videoflix\\plataformaa\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 01 - Aula 09\\VideoFlix\\VideoFlix\\PlataformaB\\Video.cs",
+              "RelativeDocumentMoniker": "VideoFlix\\PlataformaB\\Video.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 01 - Aula 09\\VideoFlix\\VideoFlix\\PlataformaB\\Video.cs",
+              "RelativeToolTip": "VideoFlix\\PlataformaB\\Video.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T23:11:35.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 01 - Aula 09\\VideoFlix\\VideoFlix\\PlataformaA\\Video.cs",
+              "RelativeDocumentMoniker": "VideoFlix\\PlataformaA\\Video.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 01 - Aula 09\\VideoFlix\\VideoFlix\\PlataformaA\\Video.cs",
+              "RelativeToolTip": "VideoFlix\\PlataformaA\\Video.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T23:11:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 01 - Aula 09\\VideoFlix\\VideoFlix\\Program.cs",
+              "RelativeDocumentMoniker": "VideoFlix\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 01 - Aula 09\\VideoFlix\\VideoFlix\\Program.cs",
+              "RelativeToolTip": "VideoFlix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T23:10:32.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
