@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Limpador Pro\\LimpadorPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3415863C-D2F7-4066-814E-E5576218C608}|LimpadorPro\\LimpadorPro.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\limpador pro\\limpadorpro\\limpadorpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3415863C-D2F7-4066-814E-E5576218C608}|LimpadorPro\\LimpadorPro.csproj|solutionrelative:limpadorpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFC9EDDF-F18C-59D1-1740-47D5855B948E}|LimpadorPro\\LimpadorPro.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\limpador pro\\limpadorpro\\limpadorpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC9EDDF-F18C-59D1-1740-47D5855B948E}|LimpadorPro\\LimpadorPro.csproj|solutionrelative:limpadorpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3415863C-D2F7-4066-814E-E5576218C608}|LimpadorPro\\LimpadorPro.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\limpador pro\\limpadorpro\\limpadorpro\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3415863C-D2F7-4066-814E-E5576218C608}|LimpadorPro\\LimpadorPro.csproj|solutionrelative:limpadorpro\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{DFC9EDDF-F18C-59D1-1740-47D5855B948E}|LimpadorPro\\LimpadorPro.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\limpador pro\\limpadorpro\\limpadorpro\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DFC9EDDF-F18C-59D1-1740-47D5855B948E}|LimpadorPro\\LimpadorPro.csproj|solutionrelative:limpadorpro\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "LimpadorPro\\app.manifest",
               "ViewState": "AgIAADQAAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
-              "WhenOpened": "2026-05-03T03:43:01.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T03:43:01.981Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "LimpadorPro\\Program.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Limpador Pro\\LimpadorPro\\LimpadorPro\\Program.cs",
               "RelativeToolTip": "LimpadorPro\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwDkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-03T03:41:10.688Z",
               "EditorCaption": ""
