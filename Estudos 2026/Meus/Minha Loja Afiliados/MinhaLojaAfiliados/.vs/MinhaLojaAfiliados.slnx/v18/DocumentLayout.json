@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\MinhaLojaAfiliados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E323D225-C248-4E44-8FED-B99B4D4C3D0E}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\minha loja afiliados\\minhalojaafiliados\\minhalojaafiliados\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E323D225-C248-4E44-8FED-B99B4D4C3D0E}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|solutionrelative:minhalojaafiliados\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CAD4B24-4070-786C-79EC-92DC7B378D79}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\minha loja afiliados\\minhalojaafiliados\\minhalojaafiliados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAD4B24-4070-786C-79EC-92DC7B378D79}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|solutionrelative:minhalojaafiliados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E323D225-C248-4E44-8FED-B99B4D4C3D0E}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\minha loja afiliados\\minhalojaafiliados\\minhalojaafiliados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E323D225-C248-4E44-8FED-B99B4D4C3D0E}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|solutionrelative:minhalojaafiliados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CAD4B24-4070-786C-79EC-92DC7B378D79}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\minha loja afiliados\\minhalojaafiliados\\minhalojaafiliados\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAD4B24-4070-786C-79EC-92DC7B378D79}|MinhaLojaAfiliados\\MinhaLojaAfiliados.csproj|solutionrelative:minhalojaafiliados\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\MinhaLojaAfiliados\\MinhaLojaAfiliados\\Produto.cs",
               "RelativeDocumentMoniker": "MinhaLojaAfiliados\\Produto.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\MinhaLojaAfiliados\\MinhaLojaAfiliados\\Produto.cs",
               "RelativeToolTip": "MinhaLojaAfiliados\\Produto.cs",
-              "ViewState": "AgIAABoAAAAAMzMzM7MvwCYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T23:56:46.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\MinhaLojaAfiliados\\MinhaLojaAfiliados\\Program.cs",
               "RelativeDocumentMoniker": "MinhaLojaAfiliados\\Program.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\MinhaLojaAfiliados\\MinhaLojaAfiliados\\Program.cs",
               "RelativeToolTip": "MinhaLojaAfiliados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACnAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T23:48:22.346Z",
               "EditorCaption": ""
