@@ -42,6 +42,24 @@ internal class Program {
             produto.Exibir();
         }
 
+        Console.WriteLine("\n/// SISTEMA DE BUSCA ///");
+        Console.Write("Digite o nome ou categoria do produto que deseja buscar: ");
+        string busca = Console.ReadLine().ToLower();
+        Console.WriteLine($"\nResultados para {busca}:\n");
+        bool encontrado = false;
+
+        foreach (var produto in listaDeProdutos) {
+            if (produto.Nome.ToLower().Contains(busca) || produto.Categoria.ToLower().Contains(busca)) {
+                produto.Exibir();
+                encontrado = true;
+            }
+      
+        }
+
+        if (!encontrado) {
+            Console.WriteLine("Nenhum produto encontrado com esse termos");
+        }
+
     }
 
 }
