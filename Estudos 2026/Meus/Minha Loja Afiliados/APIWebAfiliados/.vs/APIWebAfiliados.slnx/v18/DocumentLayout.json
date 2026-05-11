@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\APIWebAfiliados\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8CECB03-0673-1AE8-3620-08E8E0E2D6A3}|APIWebAfiliados\\APIWebAfiliados.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\minha loja afiliados\\apiwebafiliados\\apiwebafiliados\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CECB03-0673-1AE8-3620-08E8E0E2D6A3}|APIWebAfiliados\\APIWebAfiliados.csproj|solutionrelative:apiwebafiliados\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8CECB03-0673-1AE8-3620-08E8E0E2D6A3}|APIWebAfiliados\\APIWebAfiliados.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\minha loja afiliados\\apiwebafiliados\\apiwebafiliados\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8CECB03-0673-1AE8-3620-08E8E0E2D6A3}|APIWebAfiliados\\APIWebAfiliados.csproj|solutionrelative:apiwebafiliados\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CECB03-0673-1AE8-3620-08E8E0E2D6A3}|APIWebAfiliados\\APIWebAfiliados.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\minha loja afiliados\\apiwebafiliados\\apiwebafiliados\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8CECB03-0673-1AE8-3620-08E8E0E2D6A3}|APIWebAfiliados\\APIWebAfiliados.csproj|solutionrelative:apiwebafiliados\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\APIWebAfiliados\\APIWebAfiliados\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "APIWebAfiliados\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\APIWebAfiliados\\APIWebAfiliados\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "APIWebAfiliados\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAACAmpmZmZkewAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T23:49:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\APIWebAfiliados\\APIWebAfiliados\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIWebAfiliados\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\APIWebAfiliados\\APIWebAfiliados\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIWebAfiliados\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T23:46:10.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Minha Loja Afiliados\\APIWebAfiliados\\APIWebAfiliados\\Produto.cs",
               "RelativeDocumentMoniker": "APIWebAfiliados\\Produto.cs",
