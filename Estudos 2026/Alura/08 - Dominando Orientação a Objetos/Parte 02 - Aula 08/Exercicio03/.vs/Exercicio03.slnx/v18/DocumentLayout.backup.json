@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 02 - aula 08\\exercicio03\\exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 02 - aula 08\\exercicio03\\exercicio03\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 02 - aula 08\\exercicio03\\exercicio03\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 02 - aula 08\\exercicio03\\exercicio03\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 02 - aula 08\\exercicio03\\exercicio03\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33876D71-346E-449C-865D-1E5BB88D3615}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Veiculo.cs",
+              "RelativeToolTip": "Exercicio03\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:53:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oficina.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Oficina.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Oficina.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Oficina.cs",
+              "RelativeToolTip": "Exercicio03\\Oficina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:53:37.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mecanico.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Mecanico.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Mecanico.cs",
+              "RelativeToolTip": "Exercicio03\\Mecanico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:53:31.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Cliente.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Cliente.cs",
+              "RelativeToolTip": "Exercicio03\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:53:23.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio03\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Exercicio03\\Exercicio03\\Program.cs",
+              "RelativeToolTip": "Exercicio03\\Program.cs",
+              "ViewState": "AgIAAAMAAAAANDMzMzPbvwIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:50:23.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

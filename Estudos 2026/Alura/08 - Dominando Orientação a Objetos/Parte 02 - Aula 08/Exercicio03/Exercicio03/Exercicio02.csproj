@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 02 - Aula 08\Exercicio02\Exercicio02\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Bruno Paschoal\Documents\PBPaschoal\Dev\CSharp\Estudos 2026\Alura\08 - Dominando Orientação a Objetos\Parte 02 - Aula 08\Exercicio02\Exercicio02\.editorconfig" />
+  </ItemGroup>
+
+</Project>
