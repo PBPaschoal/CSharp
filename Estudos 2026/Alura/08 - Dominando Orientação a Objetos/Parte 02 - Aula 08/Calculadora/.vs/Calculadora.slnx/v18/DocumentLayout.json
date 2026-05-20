@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62602C99-2E02-4D39-AAC5-4E90D49C9361}|Exercicio04\\Exercicio04.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 02 - aula 08\\calculadora\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62602C99-2E02-4D39-AAC5-4E90D49C9361}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62602C99-2E02-4D39-AAC5-4E90D49C9361}|Exercicio04\\Exercicio04.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - dominando orienta\u00E7\u00E3o a objetos\\parte 02 - aula 08\\calculadora\\exercicio04\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62602C99-2E02-4D39-AAC5-4E90D49C9361}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Calculadora\\Exercicio04\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Calculadora\\Exercicio04\\Calculadora.cs",
+              "RelativeToolTip": "Exercicio04\\Calculadora.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:59:18.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Calculadora\\Exercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - Dominando Orienta\u00E7\u00E3o a Objetos\\Parte 02 - Aula 08\\Calculadora\\Exercicio04\\Program.cs",
+              "RelativeToolTip": "Exercicio04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:58:35.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
