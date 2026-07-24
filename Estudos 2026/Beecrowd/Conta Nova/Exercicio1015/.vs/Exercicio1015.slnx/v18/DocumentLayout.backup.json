@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Beecrowd\\Conta Nova\\Exercicio1015\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB059290-7C63-41FD-95ED-AD172540AB0D}|Exercicio1015\\Exercicio1015.csproj|c:\\users\\paulo.paschoal\\documents\\github\\csharp-dotnet\\beecrowd\\conta nova\\exercicio1015\\exercicio1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB059290-7C63-41FD-95ED-AD172540AB0D}|Exercicio1015\\Exercicio1015.csproj|solutionrelative:exercicio1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Beecrowd\\Conta Nova\\Exercicio1015\\Exercicio1015\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1015\\Program.cs",
+              "ToolTip": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Beecrowd\\Conta Nova\\Exercicio1015\\Exercicio1015\\Program.cs",
+              "RelativeToolTip": "Exercicio1015\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T18:58:58.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
