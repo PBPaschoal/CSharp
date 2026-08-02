@@ -1,6 +1,6 @@
 ﻿using ScreenSound.Modelos;
 
-Banda ira = new Banda("Ira!");
+Banda ira = new Banda("Ira");
 Banda beatles = new("The Beatles");
 
 Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
