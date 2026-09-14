@@ -75,6 +75,10 @@ class Program {
                 Console.WriteLine(nome);
             }
         }
-        
+        Console.Write("Deseja contar até quanto? ");
+        int numero = int.Parse(Console.ReadLine());
+        for (int i = 0; i <= numero; i++) {
+            Console.WriteLine($"Contando: {i}");
+        }
     }
 }

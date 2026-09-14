@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Beecrowd\\Conta Nova\\Repeticoes\\",
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Repeticoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{397D8CA8-4B3A-4CF9-AA1F-13CF45E0B01F}|Repeticoes\\Repeticoes.csproj|c:\\users\\paulo.paschoal\\documents\\github\\csharp-dotnet\\beecrowd\\conta nova\\repeticoes\\repeticoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{397D8CA8-4B3A-4CF9-AA1F-13CF45E0B01F}|Repeticoes\\Repeticoes.csproj|solutionrelative:repeticoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B2A69C9-4F31-38FE-6E13-ED58A15F2598}|Repeticoes\\Repeticoes.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\repeticoes\\repeticoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2A69C9-4F31-38FE-6E13-ED58A15F2598}|Repeticoes\\Repeticoes.csproj|solutionrelative:repeticoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Beecrowd\\Conta Nova\\Repeticoes\\Repeticoes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Repeticoes\\Repeticoes\\Program.cs",
               "RelativeDocumentMoniker": "Repeticoes\\Program.cs",
-              "ToolTip": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Beecrowd\\Conta Nova\\Repeticoes\\Repeticoes\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\Repeticoes\\Repeticoes\\Program.cs",
               "RelativeToolTip": "Repeticoes\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwFEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T19:37:34.99Z",
               "EditorCaption": ""
