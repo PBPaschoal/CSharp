@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\",
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\paulo.paschoal\\documents\\github\\csharp-dotnet\\alura 2026\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\paulo.paschoal\\documents\\github\\csharp-dotnet\\alura 2026\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\paulo.paschoal\\documents\\github\\csharp-dotnet\\alura 2026\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\paulo.paschoal\\documents\\github\\csharp-dotnet\\alura 2026\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Avaliacao.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Avaliacao.cs",
+              "RelativeToolTip": "ScreenSound\\Modelos\\Avaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T01:16:18.855Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAA0wJUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T19:56:26.509Z",
               "EditorCaption": ""
@@ -45,37 +62,40 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Album.cs",
-              "ToolTip": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
               "RelativeToolTip": "ScreenSound\\Modelos\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T19:59:47.054Z"
+              "WhenOpened": "2026-09-11T19:59:47.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Banda.cs",
-              "DocumentMoniker": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Banda.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Banda.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Banda.cs",
-              "ToolTip": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Banda.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Banda.cs",
               "RelativeToolTip": "ScreenSound\\Modelos\\Banda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T19:56:17.627Z"
+              "WhenOpened": "2026-09-11T19:56:17.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Musica.cs",
-              "ToolTip": "C:\\Users\\paulo.paschoal\\Documents\\GitHub\\CSharp-dotNET\\Alura 2026\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
               "RelativeToolTip": "ScreenSound\\Modelos\\Musica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T20:00:11.203Z"
+              "WhenOpened": "2026-09-11T20:00:11.203Z",
+              "EditorCaption": ""
             }
           ]
         }
