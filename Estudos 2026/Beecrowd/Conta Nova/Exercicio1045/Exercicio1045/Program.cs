@@ -1,4 +1,6 @@
-﻿/* Leia 3 valores de ponto flutuante A, B e C e ordene-os em ordem decrescente, de modo que o lado A representa o maior dos 3 lados. A seguir, determine o tipo de triângulo que estes três lados formam, com base nos seguintes casos, sempre escrevendo uma mensagem adequada:
+﻿/* Leia 3 valores de ponto flutuante A, B e C e ordene-os em ordem decrescente, de modo que o lado 
+ * A representa o maior dos 3 lados. A seguir, determine o tipo de triângulo que estes três lados formam, 
+ * com base nos seguintes casos, sempre escrevendo uma mensagem adequada:
 
 se A ≥ B+C, apresente a mensagem: NAO FORMA TRIANGULO
 se A2 = B2 + C2, apresente a mensagem: TRIANGULO RETANGULO
@@ -45,3 +47,7 @@ Exemplos de Entrada:
 Exemplos de Saída:
 TRIANGULO RETANGULO */
 
+string[] vetor = Console.ReadLine().Split(' ');
+double A = double.Parse(vetor[0]);
+double B = double.Parse(vetor[1]);
+double C = double.Parse(vetor[2]);

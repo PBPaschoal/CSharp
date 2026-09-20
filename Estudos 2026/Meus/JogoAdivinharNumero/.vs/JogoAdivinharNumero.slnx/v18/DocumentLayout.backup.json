@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\JogoAdivinharNumero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC68674C-FE8D-4CF4-A294-00D0423C9842}|JogoAdivinharNumero\\JogoAdivinharNumero.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\meus\\jogoadivinharnumero\\jogoadivinharnumero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC68674C-FE8D-4CF4-A294-00D0423C9842}|JogoAdivinharNumero\\JogoAdivinharNumero.csproj|solutionrelative:jogoadivinharnumero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\JogoAdivinharNumero\\JogoAdivinharNumero\\Program.cs",
+              "RelativeDocumentMoniker": "JogoAdivinharNumero\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Meus\\JogoAdivinharNumero\\JogoAdivinharNumero\\Program.cs",
+              "RelativeToolTip": "JogoAdivinharNumero\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:39:06.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
