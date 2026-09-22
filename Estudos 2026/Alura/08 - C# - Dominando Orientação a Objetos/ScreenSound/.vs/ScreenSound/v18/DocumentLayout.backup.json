@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\menus\\menumostrarbandasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menumostrarbandasregistradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\menus\\menuregistraralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistraralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\menus\\menuregistrarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +39,12 @@
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\bruno paschoal\\documents\\pbpaschoal\\dev\\csharp\\estudos 2026\\alura\\08 - c# - dominando orienta\u00E7\u00E3o a objetos\\screensound\\screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +54,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuExibirDetalhes.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MenuMostrarBandasRegistradas.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarBandasRegistradas.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarBandasRegistradas.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarBandasRegistradas.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarBandasRegistradas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T00:53:53.432Z",
+              "WhenOpened": "2026-09-21T23:47:29.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuRegistrarAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarAlbum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T23:44:29.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "MenuRegistrarBanda.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarBanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:14:52.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:04:18.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuAvaliarBanda.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T18:54:37.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuExibirDetalhes.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T00:53:53.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Avaliacao.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Avaliacao.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Avaliacao.cs",
@@ -63,33 +146,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
-              "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAywKIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T19:56:26.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Album.cs",
               "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Album.cs",
               "RelativeToolTip": "ScreenSound\\Modelos\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T19:59:47.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T19:59:47.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Modelos\\Banda.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Banda.cs",
@@ -97,8 +166,7 @@
               "RelativeToolTip": "ScreenSound\\Modelos\\Banda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T19:56:17.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T19:56:17.627Z"
             },
             {
               "$type": "Document",
@@ -111,6 +179,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T20:00:11.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\Bruno Paschoal\\Documents\\PBPaschoal\\Dev\\CSharp\\Estudos 2026\\Alura\\08 - C# - Dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "ScreenSound\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T19:56:26.509Z",
+              "EditorCaption": ""
             }
           ]
         }
