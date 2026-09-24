@@ -1,8 +1,8 @@
 ﻿using ScreenSound.Modelos;
 namespace ScreenSound.Menus; 
 internal class MenuMostrarBandasRegistradas : Menu {
-    public void Executar(Dictionary<string, Banda> bandasRegistradas) {
-        Console.Clear();
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas) {
+        base.Executar(bandasRegistradas);
         ExibirTituloDaOpcao("Exibindo todas as bandas registradas na nossa aplicação");
 
         foreach (string banda in bandasRegistradas.Keys) {

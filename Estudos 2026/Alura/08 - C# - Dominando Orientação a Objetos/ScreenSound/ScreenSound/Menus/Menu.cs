@@ -1,4 +1,6 @@
-﻿namespace ScreenSound.Menus;
+﻿using ScreenSound.Modelos;
+
+namespace ScreenSound.Menus;
 internal class Menu {
     public void ExibirTituloDaOpcao(string titulo) {
         int quantidadeDeLetras = titulo.Length;
@@ -7,4 +9,8 @@ internal class Menu {
         Console.WriteLine(titulo);
         Console.WriteLine(asteriscos + "\n");
     }
+
+    public virtual void Executar(Dictionary<string, Banda> bandasRegistradas) {
+        Console.Clear();
+    }    
 }
