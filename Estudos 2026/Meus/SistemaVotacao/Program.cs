@@ -1,9 +1,14 @@
-﻿Console.WriteLine("********************");
+﻿using SistemaVotacao.Cadastro;
+
+
+Console.WriteLine("********************");
 Console.WriteLine(" SISTEMA DE VOTAÇÃO ");
 Console.WriteLine("********************\n");
 
 int opcao = 0;
 string senhaPadrao = "votos2026";
+
+Candidatos perfil = new Candidatos();
 
 Console.WriteLine("[1] - CADASTRAR CANDIDATOS");
 Console.WriteLine("[2] - SAIR");
