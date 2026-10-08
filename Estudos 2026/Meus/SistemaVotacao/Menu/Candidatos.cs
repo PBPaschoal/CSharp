@@ -1,5 +1,3 @@
-using System;
-using System.Collections.Generic;
 namespace SistemaVotacao.Menu;
 
 public class Candidatos {
@@ -35,7 +33,7 @@ public class Candidatos {
     }
 
     public void ExibirPerfil() {
-        Console.WriteLine("EXIBINDO CANDIDATOS:");
+        Console.WriteLine("EXIBINDO CANDIDATOS:\n");
         foreach (var perfil in cadastro) {
             Console.WriteLine($"NOME DO(A) CANDIDATO(A): {perfil.Key}\nPARTIDO DO(A) CANDIDATO(A): {perfil.Value.Partido}\nNÚMERO: {perfil.Value.Numero}\n");
         }

@@ -1,5 +1,3 @@
-using System;
-using System.Dynamic;
 namespace SistemaVotacao.Menu;
 
 public class Menu {
@@ -9,6 +7,7 @@ public class Menu {
         this.Opcao = Opcao;
     }
 
+Votos votos = new();
     public void OpcoesDeMenu() {
         Console.WriteLine(":::::: INICIANDO MENU ::::::");
         Console.WriteLine("[1] VOTAR");
@@ -18,6 +17,7 @@ public class Menu {
         switch(Opcao){
             case 1:
                 Console.WriteLine("Opção 1");
+                votos.Votacoes();
                 break;
             case 2:
                 Console.WriteLine("Opção 2");
