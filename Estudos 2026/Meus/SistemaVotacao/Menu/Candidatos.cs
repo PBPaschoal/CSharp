@@ -11,7 +11,7 @@ public class Candidatos {
         this.Numero = Numero;
     }
 
-    public Dictionary<string, (string Partido, int Numero)> cadastro = new Dictionary<string, (string, int)>();
+    public static Dictionary<string, (string Partido, int Numero)> cadastro = new Dictionary<string, (string, int)>();
 
     public void CadastroPerfil() {
         for(int i = 1; i <= 3; i++) {

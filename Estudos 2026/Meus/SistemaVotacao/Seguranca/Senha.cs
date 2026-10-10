@@ -17,11 +17,13 @@ public class Senha {
             string login01 = Console.ReadLine();
             if(login01 == senhaPadrao) {
                 Console.WriteLine("LOGADO COM SUCESSO!");
+                Console.WriteLine("###############################");
                 Console.WriteLine();
+                Console.WriteLine("::::::::::::::::::::::::::::::::::::::::::::::::::");
                 Console.WriteLine("TROCA DE SENHA OBRIGATORIA!\nINFORME A NOVA SENHA:");
                 novaSenha = Console.ReadLine();
                 Console.WriteLine(">>> SENHA GRAVADA COM SUCESSO! <<<");
-                Console.WriteLine("\n[ APERTE ENTER PARA CONTINUAR ]");
+                Console.WriteLine("\n> [ APERTE ENTER PARA CONTINUAR ] <");
                 Console.ReadLine();
                 Console.Clear();
                 break;

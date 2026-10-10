@@ -9,7 +9,7 @@ public class Menu {
 
 Votos votos = new();
     public void OpcoesDeMenu() {
-        Console.WriteLine(":::::: INICIANDO MENU ::::::");
+        Console.WriteLine(":::::::::: MENU :::::;::::");
         Console.WriteLine("[1] VOTAR");
         Console.WriteLine("[2] PAINEL ADMINISTRATIVO");
         Console.Write("ESCOLHA UMA OPÇÃO: ");
